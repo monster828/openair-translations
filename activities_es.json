@@ -13,9 +13,7 @@
     "description": "Sal temprano, antes de que salga el sol por completo. Observa cómo amanece.",
     "steps": [
       "Sal temprano, antes de que salga el sol.",
-      "",
       "Busca un lugar cómodo desde donde puedas ver el sol.",
-      "",
       "Observa el amanecer sin mirar directamente al sol."
     ],
     "isPremium": false,
@@ -35,9 +33,7 @@
     "description": "Sal a la calle cuando el sol se esté poniendo.",
     "steps": [
       "Sal a la calle antes de que el sol se oculte por completo.",
-      "",
       "Busca un lugar cómodo para ver la puesta de sol.",
-      "",
       "Observa todos los colores que ofrece el atardecer."
     ],
     "isPremium": false,
@@ -116,9 +112,7 @@
     "description": "Sal a caminar y captura con tu cámara texturas interesantes, plantas o la iluminación.",
     "steps": [
       "Coge una cámara (o pon el móvil en modo No molestar).",
-      "",
       "Camina buscando tomas macro únicas o buena iluminación.",
-      "",
       "Toma al menos 3 fotos intencionadas."
     ],
     "isPremium": false,
@@ -138,9 +132,7 @@
     "description": "Combina una excursión por la naturaleza con la observación atenta de las especies de aves locales.",
     "steps": [
       "Elige un sendero boscoso cercano.",
-      "",
       "Camina en silencio y escucha el canto de los pájaros.",
-      "",
       "Intenta identificar tantas especies diferentes como puedas."
     ],
     "isPremium": true,
@@ -159,11 +151,8 @@
     "description": "Juega al voleibol con tus amigos.",
     "steps": [
       "Encuentra una cancha de voleibol cerca de ti.",
-      "",
       "Asegúrate de verificar la disponibilidad de la cancha.",
-      "",
       "Invita a tus amigos.",
-      "",
       "Juega voleibol con tus amigos."
     ],
     "isPremium": true,
@@ -182,11 +171,8 @@
     "description": "Juega al pickleball con tus amigos.",
     "steps": [
       "Encuentra una cancha de pickleball cerca de ti.",
-      "",
       "Asegúrate de verificar la disponibilidad de la cancha.",
-      "",
       "Invita a tus amigos.",
-      "",
       "Juega pickleball con amigos."
     ],
     "isPremium": true,
@@ -205,11 +191,8 @@
     "description": "Juega al tenis con tus amigos.",
     "steps": [
       "Encuentra una cancha de tenis cerca de ti.",
-      "",
       "Asegúrate de consultar la disponibilidad de la cancha.",
-      "",
       "Invita a tus amigos.",
-      "",
       "Juega al tenis con tus amigos."
     ],
     "isPremium": true,
@@ -228,9 +211,7 @@
     "description": "Dedica 30 minutos a realizar algún proyecto físico en tu jardín.",
     "steps": [
       "Recorre tu jardín y elige una tarea específica.",
-      "",
       "Arranca las malas hierbas, riega las plantas o rastrilla las hojas.",
-      "",
       "Recoge tus herramientas cuando termines."
     ],
     "isPremium": false,
@@ -251,9 +232,7 @@
     "description": "Recorre un sendero cercano.",
     "steps": [
       "Busca un sendero o reserva natural cercana y dirígete a ella.",
-      "",
       "Lleva agua y calzado resistente.",
-      "",
       "Recorre el sendero y disfruta del paisaje."
     ],
     "isPremium": true,
@@ -274,7 +253,6 @@
     "steps": [
       "Comprueba la presión de tus neumáticos y ponte el casco.",
       "Planifica una ruta corta por tu barrio o por los carriles bici cercanos.",
-      "",
       "¡Disfruta del paseo!"
     ],
     "isPremium": false,
@@ -293,9 +271,7 @@
     "description": "Escucha música o un podcast mientras te relajas en tu patio.",
     "steps": [
       "Busca un asiento cómodo en tu patio.",
-      "",
       "Pon una buena lista de reproducción o un álbum.",
-      "",
       "Relájate y disfruta sin mirar ninguna pantalla."
     ],
     "isPremium": false,
@@ -316,9 +292,7 @@
     "description": "Plante algunas plantas afuera",
     "steps": [
       "Elige una planta, semillas o flores para cultivar.",
-      "",
       "Plántalas en una maceta o parterre con tierra fresca.",
-      "",
       "Riégalas y colócalas en un lugar con la luz solar adecuada."
     ],
     "isPremium": false,
@@ -338,9 +312,7 @@
     "description": "Dirígete a un parque cercano para hacer un entrenamiento rápido con tu propio peso corporal.",
     "steps": [
       "Busca una zona verde despejada o un banco en el parque.",
-      "",
       "Realiza un circuito de flexiones, sentadillas y zancadas.",
-      "",
       "Estira y relájate."
     ],
     "isPremium": false,
@@ -360,9 +332,7 @@
     "description": "Prepara un almuerzo sencillo y disfrútalo al aire libre.",
     "steps": [
       "Prepara un almuerzo rápido para un picnic, como sándwiches y fruta.",
-      "",
       "Ve a un parque o espacio verde cercano.",
-      "",
       "Extiende una manta y disfruta de tu comida."
     ],
     "isPremium": true,
@@ -381,9 +351,7 @@
     "description": "Busca un rincón acogedor y sumérgete en un libro físico.",
     "steps": [
       "Toma un libro físico (¡nada de lectores electrónicos!).",
-      "",
       "Busca una silla cómoda, una hamaca o un trozo de césped.",
-      "",
       "Lee sin interrupciones durante 20 minutos."
     ],
     "isPremium": false,
@@ -402,9 +370,7 @@
     "description": "Busca una piscina cercana y ve a nadar.",
     "steps": [
       "Busca una piscina, lago o centro comunitario cercano.",
-      "",
       "Prepara tu toalla y traje de baño.",
-      "",
       "Sumérgete y nada unos largos o simplemente chapotea."
     ],
     "isPremium": true,
@@ -423,9 +389,7 @@
     "description": "Boceto rápido de algo que encuentres en la calle.",
     "steps": [
       "Sal afuera.",
-      "",
       "Busca algo que te llame la atención.",
-      "",
       "Haz un boceto rápido de lo que encontraste."
     ],
     "isPremium": false,
@@ -444,11 +408,8 @@
     "description": "Disfruta de un refrigerio relajante mientras dibujas un paisaje o una planta al aire libre.",
     "steps": [
       "Prepara un pequeño refrigerio y tu cuaderno de dibujo.",
-      "",
       "Busca un parque o una ruta de senderismo cerca.",
-      "",
       "Busca un lugar cómodo para sentarte.",
-      "",
       "Dibuja tu entorno mientras disfrutas de tu refrigerio."
     ],
     "isPremium": true,
@@ -468,9 +429,7 @@
     "description": "Prepara un pequeño lienzo o papel y pinta algo que veas al aire libre.",
     "steps": [
       "Reúne tus materiales de pintura.",
-      "",
       "Busca un lugar inspirador al aire libre.",
-      "",
       "Prepara tu espacio de trabajo y pinta lo que ves."
     ],
     "isPremium": true,
@@ -491,9 +450,7 @@
     "description": "Da un paseo revitalizante por tu barrio para despejar la mente.",
     "steps": [
       "Ponte zapatos cómodos para caminar.",
-      "",
       "Sal a la calle y elige una ruta que no hayas recorrido últimamente.",
-      "",
       "Camina a paso firme y guarda el teléfono en el bolsillo."
     ],
     "isPremium": false,
