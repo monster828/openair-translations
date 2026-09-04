@@ -13,9 +13,7 @@
     "description": "Sortez tôt, avant que le soleil ne soit complètement levé. Regardez le soleil se lever.",
     "steps": [
       "Sortez tôt, avant le lever du soleil.",
-      "",
       "Trouvez un endroit confortable d'où vous pourrez voir le soleil.",
-      "",
       "Observez le lever du soleil sans le regarder directement."
     ],
     "isPremium": false,
@@ -35,9 +33,7 @@
     "description": "Sortez au coucher du soleil",
     "steps": [
       "Sortez avant que le soleil ne soit complètement couché.",
-      "",
       "Trouvez un endroit confortable pour admirer le coucher du soleil.",
-      "",
       "Contemplez toutes les couleurs changeantes du crépuscule."
     ],
     "isPremium": false,
@@ -57,9 +53,7 @@
     "description": "Enlevez vos chaussures et marchez lentement sur l'herbe, la terre ou les pierres lisses pour vous ancrer.",
     "steps": [
       "Trouvez un endroit sûr à l'extérieur, sur l'herbe ou la terre.",
-      "",
       "Enlevez vos chaussures et vos chaussettes.",
-      "",
       "Marchez lentement pendant 10 minutes, en prêtant attention à la texture et à la température du sol."
     ],
     "isPremium": false,
@@ -79,7 +73,6 @@
     "description": "Trouvez au moins 5 types d'insectes à l'extérieur",
     "steps": [
       "Sortez et cherchez des insectes.",
-      "",
       "Trouvez au moins 5 espèces d'insectes différentes."
     ],
     "isPremium": true,
@@ -100,7 +93,6 @@
     "description": "Trouvez au moins 5 espèces d'oiseaux",
     "steps": [
       "Sortez",
-      "",
       "Trouvez au moins 5 oiseaux",
       "Écoutez-les"
     ],
@@ -120,9 +112,7 @@
     "description": "Faites une promenade et immortalisez avec un appareil photo les textures, les plantes ou la lumière intéressantes.",
     "steps": [
       "Munissez-vous d'un appareil photo (ou activez le mode « Ne pas déranger » sur votre téléphone).",
-      "",
       "Promenez-vous à la recherche de clichés macro ou d'éclairages originaux.",
-      "",
       "Prenez au moins trois photos intentionnelles."
     ],
     "isPremium": false,
@@ -142,9 +132,7 @@
     "description": "Combinez une randonnée en pleine nature avec l'observation et l'écoute des espèces d'oiseaux locales.",
     "steps": [
       "Choisissez un sentier boisé près de chez vous.",
-      "",
       "Marchez silencieusement et tendez l'oreille pour entendre le chant des oiseaux.",
-      "",
       "Essayez de repérer le plus grand nombre d'espèces différentes."
     ],
     "isPremium": true,
@@ -163,11 +151,8 @@
     "description": "Jouer au volley-ball avec des amis",
     "steps": [
       "Trouvez un terrain de volley-ball près de chez vous.",
-      "",
       "Vérifiez la disponibilité des terrains.",
-      "",
       "Invitez vos amis.",
-      "",
       "Jouez au volley-ball avec vos amis."
     ],
     "isPremium": true,
@@ -186,11 +171,8 @@
     "description": "Jouez au pickleball avec vos amis",
     "steps": [
       "Trouvez un terrain de pickleball près de chez vous.",
-      "",
       "Vérifiez la disponibilité des terrains.",
-      "",
       "Invitez vos amis.",
-      "",
       "Jouez au pickleball avec vos amis."
     ],
     "isPremium": true,
@@ -209,11 +191,8 @@
     "description": "Jouer au tennis avec des amis",
     "steps": [
       "Trouvez un court de tennis près de chez vous.",
-      "",
       "Vérifiez la disponibilité des courts.",
-      "",
       "Invitez vos amis.",
-      "",
       "Jouez au tennis avec vos amis."
     ],
     "isPremium": true,
@@ -232,9 +211,7 @@
     "description": "Consacrez 30 minutes à un projet physique dans votre jardin.",
     "steps": [
       "Faites le tour de votre jardin et choisissez une tâche précise.",
-      "",
       "Désherbez, arrosez les plantes ou ramassez les feuilles.",
-      "",
       "Nettoyez vos outils une fois le travail terminé."
     ],
     "isPremium": false,
@@ -255,9 +232,7 @@
     "description": "Partez en randonnée sur un sentier à proximité.",
     "steps": [
       "Trouvez un sentier ou une réserve naturelle à proximité et rendez-vous-y.",
-      "",
       "Emportez de l'eau et portez de bonnes chaussures de marche.",
-      "",
       "Partez en randonnée et admirez le paysage."
     ],
     "isPremium": true,
@@ -277,9 +252,7 @@
     "description": "Faites du vélo dans votre quartier",
     "steps": [
       "Vérifiez la pression de vos pneus et mettez un casque.",
-      "",
       "Tractez un petit parcours dans votre quartier ou sur les pistes cyclables avoisinantes.",
-      "",
       "Bonne balade !"
     ],
     "isPremium": false,
@@ -298,9 +271,7 @@
     "description": "Écoutez de la musique ou un podcast tout en vous relaxant sur votre terrasse.",
     "steps": [
       "Installez-vous confortablement sur votre terrasse.",
-      "",
       "Mettez votre musique préférée, comme une playlist ou un album.",
-      "",
       "Détendez-vous et profitez du moment présent, sans regarder d'écran."
     ],
     "isPremium": false,
@@ -321,9 +292,7 @@
     "description": "Plantez quelques plantes à l'extérieur",
     "steps": [
       "Choisissez une plante, des graines ou des fleurs à faire pousser.",
-      "",
       "Plantez-les dans un pot ou une plate-bande avec du terreau frais.",
-      "",
       "Arrosez-les et placez-les dans un endroit bien ensoleillé."
     ],
     "isPremium": false,
@@ -343,9 +312,7 @@
     "description": "Rendez-vous dans un parc voisin pour une séance d'entraînement rapide au poids du corps.",
     "steps": [
       "Trouvez un espace vert dégagé ou un banc dans un parc.",
-      "",
       "Faites un circuit de pompes, de squats et de fentes.",
-      "",
       "Rendez-vous ensuite pour récupérer et étirez-vous."
     ],
     "isPremium": false,
@@ -365,9 +332,7 @@
     "description": "Préparez un pique-nique simple et dégustez-le en plein air.",
     "steps": [
       "Préparez un pique-nique rapide avec des sandwichs et des fruits.",
-      "",
       "Rendez-vous dans un parc ou un espace vert à proximité.",
-      "",
       "Étalez une couverture et profitez de votre repas."
     ],
     "isPremium": true,
@@ -386,9 +351,7 @@
     "description": "Trouvez un endroit confortable et plongez-vous dans un livre.",
     "steps": [
       "Prenez un livre papier (pas de liseuse !).",
-      "",
       "Trouvez un fauteuil confortable, un hamac ou un coin d'herbe.",
-      "",
       "Lisez tranquillement pendant 20 minutes."
     ],
     "isPremium": false,
@@ -407,9 +370,7 @@
     "description": "Trouvez une piscine à proximité et allez nager.",
     "steps": [
       "Trouvez une piscine, un lac ou un centre communautaire près de chez vous.",
-      "",
       "Préparez votre serviette et votre maillot de bain.",
-      "",
       "Plongez dans l'eau et nagez quelques longueurs ou amusez-vous simplement à barboter."
     ],
     "isPremium": true,
@@ -428,9 +389,7 @@
     "description": "Croquis rapide d'un objet trouvé à l'extérieur.",
     "steps": [
       "Sortez.",
-      "",
       "Trouvez quelque chose qui attire votre attention.",
-      "",
       "Croquiez rapidement ce que vous avez trouvé."
     ],
     "isPremium": false,
@@ -449,11 +408,8 @@
     "description": "Savourez une collation relaxante tout en dessinant un paysage ou une plante en extérieur.",
     "steps": [
       "Préparez un petit goûter et votre carnet de croquis.",
-      "",
       "Trouvez un parc ou un sentier de randonnée à proximité.",
-      "",
       "Trouvez un endroit confortable pour vous asseoir.",
-      "",
       "Croquiez les environs tout en savourant votre goûter."
     ],
     "isPremium": true,
@@ -470,12 +426,10 @@
     "locationType": "nature",
     "isIndoor": false,
     "durationMinutes": 60,
-    "description": "Installez une petite toile ou une feuille de papier et peignez un tableau représentant un paysage extérieur.",
+    "description": "Installez une petite toile ou une feuille de papier et peignez un paysage extérieur.",
     "steps": [
       "Rassemblez votre matériel de peinture.",
-      "",
       "Trouvez un endroit inspirant à l'extérieur.",
-      "",
       "Installez votre espace de travail et peignez ce que vous voyez."
     ],
     "isPremium": true,
@@ -496,9 +450,7 @@
     "description": "Faites une promenade revigorante dans votre quartier pour vous aérer l'esprit.",
     "steps": [
       "Enfilez des chaussures de marche confortables.",
-      "",
       "Sortez et choisissez un itinéraire que vous n'avez pas emprunté récemment.",
-      "",
       "Marchez à un rythme régulier et laissez votre téléphone dans votre poche."
     ],
     "isPremium": false,
