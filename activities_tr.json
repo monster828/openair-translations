@@ -253,7 +253,7 @@
     "steps": [
       "Lastik basıncınızı kontrol edin ve kaskınızı takın.",
       "Mahallenizde veya yakındaki bisiklet yollarında kısa bir tur atın.",
-      "Keyfini çıkarın."
+      "Sürüşün keyfini çıkarın."
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -289,7 +289,7 @@
     "locationType": "backyard",
     "isIndoor": false,
     "durationMinutes": 30,
-    "description": "Dışarıya birkaç bitki dikin.",
+    "description": "Dışarıya bazı bitkiler dikin.",
     "steps": [
       "Yetiştirmek istediğiniz bir bitki, tohum veya çiçek seçin.",
       "Bunları taze toprak içeren bir saksıya veya bahçe yatağına dikin.",
