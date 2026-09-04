@@ -157,7 +157,7 @@
     "locationType": "urban",
     "isIndoor": false,
     "durationMinutes": 30,
-    "description": "Spiele Pickleball mit Freunden",
+    "description": "Spielt Pickleball mit Freunden",
     "steps": [
       "Finde einen Pickleball-Platz in deiner Nähe.",
       "Prüfe vorher die Verfügbarkeit des Platzes.",
@@ -218,7 +218,7 @@
     "durationMinutes": 60,
     "description": "Wandern Sie auf einem nahegelegenen Wanderweg",
     "steps": [
-      "Such dir einen Wanderweg oder ein Naturschutzgebiet in der Nähe und mach dich auf den Weg. Nimm Wasser mit und trag festes Schuhwerk. Erkunde die Gegend und genieße die Eindrücke."
+      "Such dir einen Wanderweg oder ein Naturschutzgebiet in der Nähe und mach dich auf den Weg. Pack Wasser ein und trag festes Schuhwerk. Erkunde die Gegend und genieße die Eindrücke."
     ],
     "isPremium": true,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -325,7 +325,7 @@
     "locationType": "backyard",
     "isIndoor": false,
     "durationMinutes": 20,
-    "description": "Such dir einen gemütlichen Platz und tauche ein in ein gedrucktes Buch.",
+    "description": "Such dir einen gemütlichen Platz und tauche ein in ein richtiges Buch",
     "steps": [
       "Schnapp dir ein richtiges Buch (keinen E-Reader!). Such dir einen bequemen Stuhl, eine Hängematte oder ein Plätzchen im Gras. Lies 20 Minuten lang ungestört."
     ],
@@ -416,7 +416,7 @@
     "durationMinutes": 15,
     "description": "Machen Sie einen erfrischenden Spaziergang durch Ihre Nachbarschaft, um den Kopf frei zu bekommen.",
     "steps": [
-      "Ziehen Sie bequeme Schuhe an. Gehen Sie nach draußen und suchen Sie sich eine Strecke aus, die Sie schon länger nicht mehr gegangen sind. Gehen Sie in gleichmäßigem Tempo und lassen Sie Ihr Handy in der Tasche."
+      "Ziehen Sie bequeme Wanderschuhe an. Gehen Sie nach draußen und wählen Sie eine Strecke, die Sie in letzter Zeit nicht gegangen sind. Gehen Sie in gleichmäßigem Tempo und lassen Sie Ihr Handy in der Tasche."
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
