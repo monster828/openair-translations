@@ -151,7 +151,6 @@
     "description": "Bermain voli bersama teman-teman",
     "steps": [
       "Cari lapangan voli terdekat.",
-      "",
       "Pastikan untuk mengecek ketersediaan lapangan.",
       "Ajak teman-temanmu.",
       "Main voli bersama teman-teman."
@@ -172,7 +171,6 @@
     "description": "Main pickleball bersama teman-teman",
     "steps": [
       "Cari lapangan pickleball terdekat.",
-      "",
       "Pastikan untuk memeriksa ketersediaan lapangan.",
       "Ajak teman-temanmu.",
       "Mainkan pickleball bersama teman-teman."
@@ -193,9 +191,8 @@
     "description": "Bermain tenis bersama teman-teman",
     "steps": [
       "Cari lapangan tenis terdekat.",
-      "",
-      "Pastikan untuk mengecek ketersediaan lapangan tenis setempat.",
-      "Ajak teman-temanmu.",
+      "Pastikan untuk memeriksa ketersediaan lapangan tenis setempat.",
+      "Ajak teman-teman Anda.",
       "Main tenis bersama teman-teman."
     ],
     "isPremium": true,
@@ -255,7 +252,6 @@
     "description": "Bersepedalah di sekitar lingkungan Anda.",
     "steps": [
       "Periksa tekanan ban Anda dan kenakan helm.",
-      "",
       "Buat rencana rute singkat di sekitar lingkungan Anda atau jalur sepeda terdekat.",
       "Nikmati perjalanan Anda."
     ],
@@ -296,7 +292,6 @@
     "description": "Tanam beberapa tanaman di luar",
     "steps": [
       "Pilih tanaman, biji, atau bunga untuk ditanam.",
-      "",
       "Tanamlah di dalam pot atau bedengan kebun dengan tanah yang segar.",
       "Siramlah dan letakkan di tempat yang mendapat sinar matahari yang cukup."
     ],
@@ -356,7 +351,6 @@
     "description": "Temukan tempat yang nyaman dan nikmati buku fisik.",
     "steps": [
       "Ambil buku fisik (bukan e-reader!).",
-      "",
       "Cari kursi yang nyaman, tempat tidur gantung, atau hamparan rumput.",
       "Bacalah tanpa gangguan selama 20 menit."
     ],
@@ -395,7 +389,6 @@
     "description": "Sketsa cepat dari sesuatu yang Anda temukan di luar.",
     "steps": [
       "Pergilah ke luar.",
-      "",
       "Temukan sesuatu yang menarik minatmu.",
       "Gambarlah dengan cepat benda yang kamu temukan itu."
     ],
@@ -456,7 +449,7 @@
     "durationMinutes": 15,
     "description": "Luangkan waktu untuk berjalan-jalan santai di lingkungan sekitar Anda untuk menjernihkan pikiran.",
     "steps": [
-      "Kenakan sepatu berjalan yang nyaman.",
+      "Kenakan sepatu jalan yang nyaman.",
       "Keluar dan pilih rute yang belum pernah Anda lalui baru-baru ini.",
       "Berjalanlah dengan kecepatan tetap dan simpan ponsel Anda di saku."
     ],
