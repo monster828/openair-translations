@@ -13,7 +13,7 @@
     "description": "Saia de casa cedo, antes do sol nascer completamente. Observe o nascer do sol.",
     "steps": [
       "Saia cedo, antes do sol nascer.",
-      "Encontre um lugar confortável de onde você possa ver o sol.",
+      "Encontre um lugar confortável onde você possa ver o sol.",
       "Observe o nascer do sol sem olhar diretamente para ele."
     ],
     "isPremium": false,
@@ -112,9 +112,7 @@
     "description": "Dê um passeio e fotografe texturas interessantes, plantas ou efeitos de luz.",
     "steps": [
       "Pegue uma câmera (ou coloque o celular no modo \"Não perturbe\").",
-      "",
       "Caminhe pelo local procurando oportunidades únicas para fotos macro ou iluminação interessante.",
-      "",
       "Tire pelo menos 3 fotos intencionais."
     ],
     "isPremium": false,
@@ -135,7 +133,6 @@
     "steps": [
       "Escolha uma trilha na mata local.",
       "Caminhe em silêncio e ouça o canto dos pássaros.",
-      "",
       "Veja quantas espécies diferentes você consegue avistar."
     ],
     "isPremium": true,
@@ -155,9 +152,7 @@
     "steps": [
       "Encontre uma quadra de vôlei perto de você.",
       "Verifique a disponibilidade da quadra.",
-      "",
       "Convide seus amigos.",
-      "",
       "Jogue vôlei com os amigos."
     ],
     "isPremium": true,
@@ -177,7 +172,6 @@
     "steps": [
       "Encontre uma quadra de pickleball perto de você.",
       "Verifique a disponibilidade da quadra.",
-      "",
       "Convide seus amigos.",
       "Jogue pickleball com seus amigos."
     ],
@@ -198,7 +192,6 @@
     "steps": [
       "Encontre uma quadra de tênis perto de você.",
       "Verifique a disponibilidade da quadra.",
-      "",
       "Convide seus amigos.",
       "Jogue tênis com os amigos."
     ],
@@ -219,7 +212,6 @@
     "steps": [
       "Dê uma volta pelo seu quintal e escolha uma tarefa específica.",
       "Arranque ervas daninhas, regue as plantas ou recolha as folhas.",
-      "",
       "Guarde suas ferramentas quando terminar."
     ],
     "isPremium": false,
@@ -241,7 +233,6 @@
     "steps": [
       "Encontre uma trilha ou reserva natural próxima e explore-a.",
       "Leve água e use calçados resistentes.",
-      "",
       "Siga a trilha e observe a paisagem ao seu redor."
     ],
     "isPremium": true,
@@ -261,9 +252,7 @@
     "description": "Passeie de bicicleta pelo seu bairro.",
     "steps": [
       "Verifique a pressão dos pneus e coloque um capacete.",
-      "",
       "Planeje um percurso rápido pelo seu bairro ou por ciclovias próximas.",
-      "",
       "Aproveite o passeio."
     ],
     "isPremium": false,
@@ -282,9 +271,7 @@
     "description": "Ouça música ou um podcast enquanto relaxa no seu pátio.",
     "steps": [
       "Acomode-se confortavelmente no seu pátio.",
-      "",
       "Coloque uma ótima playlist ou um álbum para tocar.",
-      "",
       "Relaxe e aproveite o momento sem olhar para uma tela."
     ],
     "isPremium": false,
@@ -306,7 +293,6 @@
     "steps": [
       "Escolha uma planta, sementes ou flores para cultivar.",
       "Plante-as em um vaso ou canteiro com terra fresca.",
-      "",
       "Regue-as e coloque-as em um local com a quantidade certa de luz solar."
     ],
     "isPremium": false,
@@ -327,7 +313,6 @@
     "steps": [
       "Encontre uma área gramada aberta ou um banco de parque.",
       "Complete um circuito de flexões, agachamentos e afundos.",
-      "",
       "Finalize com alongamentos e relaxamento."
     ],
     "isPremium": false,
@@ -348,7 +333,6 @@
     "steps": [
       "Prepare um almoço rápido para piquenique, como sanduíches e frutas.",
       "Vá até um parque ou área verde próxima.",
-      "",
       "Estenda uma toalha e aproveite sua refeição."
     ],
     "isPremium": true,
@@ -368,7 +352,6 @@
     "steps": [
       "Pegue um livro físico (nada de leitores digitais!).",
       "Encontre uma cadeira confortável, uma rede ou um pedaço de grama.",
-      "",
       "Leia sem interrupções por 20 minutos."
     ],
     "isPremium": false,
@@ -388,7 +371,6 @@
     "steps": [
       "Encontre uma piscina, lago ou centro comunitário local.",
       "Leve sua toalha e roupa de banho.",
-      "",
       "Pule na água e nade algumas voltas ou simplesmente divirta-se na água."
     ],
     "isPremium": true,
@@ -408,7 +390,6 @@
     "steps": [
       "Saia.",
       "Encontre algo que desperte seu interesse.",
-      "",
       "Faça um esboço rápido daquilo que você encontrou."
     ],
     "isPremium": false,
@@ -428,9 +409,7 @@
     "steps": [
       "Prepare um pequeno lanche e seu caderno de desenho.",
       "Encontre um parque ou uma trilha para caminhadas por perto.",
-      "",
       "Encontre um lugar aconchegante para sentar.",
-      "",
       "Esboce seus arredores enquanto saboreia seu lanche."
     ],
     "isPremium": true,
@@ -451,7 +430,6 @@
     "steps": [
       "Reúna seus materiais de pintura.",
       "Encontre um lugar inspirador ao ar livre.",
-      "",
       "Prepare seu espaço de trabalho e pinte o que você vê."
     ],
     "isPremium": true,
@@ -472,9 +450,7 @@
     "description": "Faça uma caminhada revigorante pelo seu bairro para espairecer.",
     "steps": [
       "Calce sapatos confortáveis ​​para caminhada.",
-      "",
       "Saia e escolha um caminho que você não tenha percorrido recentemente.",
-      "",
       "Caminhe em um ritmo constante e deixe o celular no bolso."
     ],
     "isPremium": false,
