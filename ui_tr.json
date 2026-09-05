@@ -114,5 +114,19 @@
   "Close": "Kapalı",
   "Delete": "Silmek",
   "Check out my outdoor memory for {title}! Captured with Open Air": "{title} için çektiğim dış mekan anılarıma göz atın! Open Air ile çekildi.",
-  "Journal Logs": "Günlük Kayıtları"
+  "Journal Logs": "Günlük Kayıtları",
+  "cat_nature": "#REF!",
+  "cat_creative": "Doğa",
+  "cat_active": "Yaratıcı",
+  "cat_chill": "Aktif",
+  "cat_curious": "Sakin olmak",
+  "cat_productive": "Meraklı",
+  "loc_home": "Verimli",
+  "loc_nature": "Doğa",
+  "loc_backyard": "Arka bahçe",
+  "loc_neighborhood": "Komşu",
+  "loc_urban": "Kentsel",
+  "aud_solo": "Solo",
+  "aud_date": "Tarih",
+  "aud_group": "Grup"
 }
