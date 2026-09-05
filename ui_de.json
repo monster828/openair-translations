@@ -114,5 +114,19 @@
   "Close": "Schließen",
   "Delete": "Löschen",
   "Check out my outdoor memory for {title}! Captured with Open Air": "Seht euch meine Outdoor-Erinnerung für {title} an! Aufgenommen mit Open Air",
-  "Journal Logs": "Journalprotokolle"
+  "Journal Logs": "Journalprotokolle",
+  "cat_nature": "#REF!",
+  "cat_creative": "Natur",
+  "cat_active": "Kreativ",
+  "cat_chill": "Aktiv",
+  "cat_curious": "Kühlen",
+  "cat_productive": "Neugierig",
+  "loc_home": "Produktiv",
+  "loc_nature": "Natur",
+  "loc_backyard": "Hinterhof",
+  "loc_neighborhood": "Nachbarschaft",
+  "loc_urban": "Urban",
+  "aud_solo": "Solo",
+  "aud_date": "Datum",
+  "aud_group": "Gruppe"
 }
