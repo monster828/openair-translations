@@ -128,5 +128,8 @@
   "loc_urban": "Urban",
   "aud_solo": "Solo",
   "aud_date": "Datum",
-  "aud_group": "Gruppe"
+  "aud_group": "Gruppe",
+  "saved": "gespeichert",
+  "logged": "Protokolliert",
+  "days": "Tage"
 }
