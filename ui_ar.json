@@ -114,5 +114,19 @@
   "Close": "يغلق",
   "Delete": "يمسح",
   "Check out my outdoor memory for {title}! Captured with Open Air": "شاهدوا ذكرياتي في الهواء الطلق لـ {title}! تم التقاطها باستخدام تطبيق Open Air",
-  "Journal Logs": "سجلات اليومية"
+  "Journal Logs": "سجلات اليومية",
+  "cat_nature": "#REF!",
+  "cat_creative": "طبيعة",
+  "cat_active": "مبدع",
+  "cat_chill": "نشيط",
+  "cat_curious": "برد",
+  "cat_productive": "فضولي",
+  "loc_home": "منتج",
+  "loc_nature": "طبيعة",
+  "loc_backyard": "الفناء الخلفي",
+  "loc_neighborhood": "حيّ",
+  "loc_urban": "حضري",
+  "aud_solo": "منفرد",
+  "aud_date": "تاريخ",
+  "aud_group": "مجموعة"
 }
