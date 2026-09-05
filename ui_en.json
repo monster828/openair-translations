@@ -114,5 +114,19 @@
   "Close": "Close",
   "Delete": "Delete",
   "Check out my outdoor memory for {title}! Captured with Open Air": "Check out my outdoor memory for {title}! Captured with Open Air",
-  "Journal Logs": "Journal Logs"
+  "Journal Logs": "Journal Logs",
+  "cat_nature": "Nature",
+  "cat_creative": "Creative",
+  "cat_active": "Active",
+  "cat_chill": "Chill",
+  "cat_curious": "Curious",
+  "cat_productive": "Productive",
+  "loc_home": "Home",
+  "loc_nature": "Nature",
+  "loc_backyard": "Backyard",
+  "loc_neighborhood": "Neighborhood",
+  "loc_urban": "Urban",
+  "aud_solo": "Solo",
+  "aud_date": "Date",
+  "aud_group": "Group"
 }
