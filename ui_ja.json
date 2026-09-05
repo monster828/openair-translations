@@ -114,5 +114,19 @@
   "Close": "近い",
   "Delete": "消去",
   "Check out my outdoor memory for {title}! Captured with Open Air": "{title}の屋外での思い出をチェックしてください！Open Airで撮影しました。",
-  "Journal Logs": "ジャーナルログ"
+  "Journal Logs": "ジャーナルログ",
+  "cat_nature": "#REF!",
+  "cat_creative": "自然",
+  "cat_active": "クリエイティブ",
+  "cat_chill": "アクティブ",
+  "cat_curious": "チル",
+  "cat_productive": "好奇心旺盛",
+  "loc_home": "生産的",
+  "loc_nature": "自然",
+  "loc_backyard": "裏庭",
+  "loc_neighborhood": "近所",
+  "loc_urban": "都会的な",
+  "aud_solo": "ソロ",
+  "aud_date": "日付",
+  "aud_group": "グループ"
 }
