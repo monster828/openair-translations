@@ -114,5 +114,19 @@
   "Close": "Menutup",
   "Delete": "Menghapus",
   "Check out my outdoor memory for {title}! Captured with Open Air": "Lihat kenangan luar ruangan saya untuk {judul}! Diabadikan dengan Open Air",
-  "Journal Logs": "Catatan Jurnal"
+  "Journal Logs": "Catatan Jurnal",
+  "cat_nature": "#REF!",
+  "cat_creative": "Alam",
+  "cat_active": "Kreatif",
+  "cat_chill": "Aktif",
+  "cat_curious": "Santai",
+  "cat_productive": "Penasaran",
+  "loc_home": "Produktif",
+  "loc_nature": "Alam",
+  "loc_backyard": "Halaman belakang",
+  "loc_neighborhood": "Lingkungan",
+  "loc_urban": "Perkotaan",
+  "aud_solo": "Solo",
+  "aud_date": "Tanggal",
+  "aud_group": "Kelompok"
 }
