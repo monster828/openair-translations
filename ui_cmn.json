@@ -128,5 +128,8 @@
   "loc_urban": "城市的",
   "aud_solo": "独奏",
   "aud_date": "日期",
-  "aud_group": "团体"
+  "aud_group": "团体",
+  "saved": "已保存",
+  "logged": "已登录",
+  "days": "天"
 }
