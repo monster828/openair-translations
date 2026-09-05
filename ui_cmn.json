@@ -114,5 +114,19 @@
   "Close": "关闭",
   "Delete": "删除",
   "Check out my outdoor memory for {title}! Captured with Open Air": "来看看我为{title}拍摄的户外回忆！用露天拍摄",
-  "Journal Logs": "日志"
+  "Journal Logs": "日志",
+  "cat_nature": "#REF!",
+  "cat_creative": "自然",
+  "cat_active": "有创造力的",
+  "cat_chill": "积极的",
+  "cat_curious": "寒意",
+  "cat_productive": "好奇的",
+  "loc_home": "高效的",
+  "loc_nature": "自然",
+  "loc_backyard": "后院",
+  "loc_neighborhood": "邻里",
+  "loc_urban": "城市的",
+  "aud_solo": "独奏",
+  "aud_date": "日期",
+  "aud_group": "团体"
 }
