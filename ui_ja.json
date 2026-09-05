@@ -128,5 +128,8 @@
   "loc_urban": "都会的な",
   "aud_solo": "ソロ",
   "aud_date": "日付",
-  "aud_group": "グループ"
+  "aud_group": "グループ",
+  "saved": "保存済み",
+  "logged": "ログ",
+  "days": "日"
 }
