@@ -114,5 +114,19 @@
   "Close": "Закрывать",
   "Delete": "Удалить",
   "Check out my outdoor memory for {title}! Captured with Open Air": "Посмотрите мои воспоминания об отдыхе на природе для {title}! Снято на открытом воздухе.",
-  "Journal Logs": "Журналы"
+  "Journal Logs": "Журналы",
+  "cat_nature": "#REF!",
+  "cat_creative": "Природа",
+  "cat_active": "Творческий",
+  "cat_chill": "Активный",
+  "cat_curious": "Холод",
+  "cat_productive": "Любопытный",
+  "loc_home": "Продуктивный",
+  "loc_nature": "Природа",
+  "loc_backyard": "Задний двор",
+  "loc_neighborhood": "Район",
+  "loc_urban": "Городской",
+  "aud_solo": "Соло",
+  "aud_date": "Дата",
+  "aud_group": "Группа"
 }
