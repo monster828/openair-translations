@@ -128,5 +128,8 @@
   "loc_urban": "Kentsel",
   "aud_solo": "Solo",
   "aud_date": "Tarih",
-  "aud_group": "Grup"
+  "aud_group": "Grup",
+  "saved": "kaydedildi",
+  "logged": "giriş yaptı",
+  "days": "günler"
 }
