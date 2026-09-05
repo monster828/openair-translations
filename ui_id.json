@@ -128,5 +128,8 @@
   "loc_urban": "Perkotaan",
   "aud_solo": "Solo",
   "aud_date": "Tanggal",
-  "aud_group": "Kelompok"
+  "aud_group": "Kelompok",
+  "saved": "tersimpan",
+  "logged": "masuk",
+  "days": "hari"
 }
