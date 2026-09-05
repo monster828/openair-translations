@@ -128,5 +128,8 @@
   "loc_urban": "حضري",
   "aud_solo": "منفرد",
   "aud_date": "تاريخ",
-  "aud_group": "مجموعة"
+  "aud_group": "مجموعة",
+  "saved": "أنقذ",
+  "logged": "تم تسجيل الدخول",
+  "days": "أيام"
 }
