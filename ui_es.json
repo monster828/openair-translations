@@ -114,5 +114,19 @@
   "Close": "Cerca",
   "Delete": "Borrar",
   "Check out my outdoor memory for {title}! Captured with Open Air": "¡Mira mi recuerdo al aire libre para {title}! Capturado con Open Air",
-  "Journal Logs": "Registros del diario"
+  "Journal Logs": "Registros del diario",
+  "cat_nature": "Naturaleza",
+  "cat_creative": "Creativo",
+  "cat_active": "Activo",
+  "cat_chill": "Enfriar",
+  "cat_curious": "Curioso",
+  "cat_productive": "Productivo",
+  "loc_home": "Hogar",
+  "loc_nature": "Naturaleza",
+  "loc_backyard": "Patio interior",
+  "loc_neighborhood": "Vecindario",
+  "loc_urban": "Urbano",
+  "aud_solo": "Solo",
+  "aud_date": "Fecha",
+  "aud_group": "Grupo"
 }
