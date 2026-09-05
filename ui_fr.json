@@ -114,5 +114,19 @@
   "Close": "Fermer",
   "Delete": "Supprimer",
   "Check out my outdoor memory for {title}! Captured with Open Air": "Découvrez mon souvenir en plein air pour {title} ! Capturé avec Open Air",
-  "Journal Logs": "Journaux de bord"
+  "Journal Logs": "Journaux de bord",
+  "cat_nature": "#REF!",
+  "cat_creative": "Nature",
+  "cat_active": "Créatif",
+  "cat_chill": "Actif",
+  "cat_curious": "Froideur",
+  "cat_productive": "Curieux",
+  "loc_home": "Productif",
+  "loc_nature": "Nature",
+  "loc_backyard": "Arrière-cour",
+  "loc_neighborhood": "Quartier",
+  "loc_urban": "Urbain",
+  "aud_solo": "Solo",
+  "aud_date": "Date",
+  "aud_group": "Groupe"
 }
