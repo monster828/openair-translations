@@ -455,5 +455,80 @@
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "title": "Patio wash",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Quickly clean and spray down your patio.",
+    "steps": [
+      "Quickly put away any items on the patio.",
+      "Set asside anything that shouldn't get wet.",
+      "Spray down the patio and clean it from any dirt."
+    ],
+    "isPremium": "",
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 25,
+    "title": "Hug a Tree",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 7,
+    "description": "Go outside and hug a nearby tree",
+    "steps": [
+      "Find a tree.",
+      "Hug the tree."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "title": "Listen to music",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Relax while listening to some music",
+    "steps": [
+      "Find a rocking chair or a nice place to relax outside.",
+      "Turn on some relaxing music.",
+      "Close your eyes or look at the beauty around you.",
+      "Relax."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "title": "Nature Journalling",
+    "category": "curious",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Observe and make note of the nature around you",
+    "steps": [
+      "Grab a journal and a writing utensil.",
+      "Spend 15 or more minutes outside while taking note of what you see."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
   }
 ]
