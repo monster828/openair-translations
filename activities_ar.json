@@ -34,7 +34,7 @@
     "steps": [
       "اخرج قبل غروب الشمس تمامًا.",
       "ابحث عن مكان مريح لمشاهدة غروب الشمس.",
-      "تأمل جميع الألوان المختلفة التي تتجلى عند الغروب."
+      "استمتع بمشاهدة الألوان المتنوعة التي تضفيها الشمس عند الغروب."
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -453,5 +453,80 @@
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "title": "غسيل الفناء",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": "",
+    "durationMinutes": 30,
+    "description": "قم بتنظيف وتعقيم فناء منزلك بسرعة.",
+    "steps": [
+      "أزل جميع الأغراض الموجودة على الفناء بسرعة.",
+      "ضع جانباً أي شيء لا يجب أن يتبلل.",
+      "رش الفناء بالماء ونظفه من أي أوساخ."
+    ],
+    "isPremium": "",
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 25,
+    "title": "احتضن شجرة",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 7,
+    "description": "اخرج إلى الخارج وعانق شجرة قريبة",
+    "steps": [
+      "ابحث عن شجرة.",
+      "عانق الشجرة."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "title": "استمع إلى الموسيقى",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "استرخِ أثناء الاستماع إلى بعض الموسيقى",
+    "steps": [
+      "ابحث عن كرسي هزاز أو مكان جميل للاسترخاء في الهواء الطلق.",
+      "شغّل موسيقى هادئة.",
+      "أغمض عينيك أو تأمل جمال الطبيعة من حولك.",
+      "استرخِ."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "title": "تدوين الملاحظات في الطبيعة",
+    "category": "curious",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "راقب ولاحظ الطبيعة من حولك",
+    "steps": [
+      "أحضر دفتر ملاحظات وقلمًا.",
+      "اقضِ ١٥ دقيقة أو أكثر في الهواء الطلق، ودون ملاحظاتك عما تراه."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
   }
 ]
