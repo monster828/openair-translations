@@ -253,7 +253,7 @@
     "steps": [
       "Lastik basıncınızı kontrol edin ve kaskınızı takın.",
       "Mahallenizde veya yakındaki bisiklet yollarında kısa bir tur atın.",
-      "Sürüşün keyfini çıkarın."
+      "Keyfini çıkarın."
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -369,7 +369,7 @@
     "durationMinutes": 20,
     "description": "Yakındaki bir havuzu bulun ve yüzmeye gidin.",
     "steps": [
-      "Yakınlarda bir havuz, göl veya toplum merkezi bulun.",
+      "Yakındaki bir havuzu, gölü veya toplum merkezini bulun.",
       "Havlunuzu ve mayonuzu yanınıza alın.",
       "Suya atlayın ve turlar atarak yüzün veya sadece etrafta su sıçratarak eğlenin."
     ],
@@ -455,5 +455,80 @@
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "title": "Veranda yıkama",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": "",
+    "durationMinutes": 30,
+    "description": "Verandanızı hızlıca temizleyin ve suyla yıkayın.",
+    "steps": [
+      "Verandadaki tüm eşyaları hızla kaldırın.",
+      "Islanmaması gereken her şeyi bir kenara koyun.",
+      "Verandayı suyla yıkayın ve kirden temizleyin."
+    ],
+    "isPremium": "",
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 25,
+    "title": "Bir ağaca sarıl",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 7,
+    "description": "Dışarı çıkın ve yakındaki bir ağaca sarılın.",
+    "steps": [
+      "Bir ağaç bulun.",
+      "Ağaca sarılın."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "title": "Müzik dinleyin",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Biraz müzik dinleyerek rahatlayın.",
+    "steps": [
+      "Dışarıda rahatlayabileceğiniz bir sallanan sandalye veya güzel bir yer bulun.",
+      "Rahatlatıcı bir müzik açın.",
+      "Gözlerinizi kapatın veya etrafınızdaki güzelliklere bakın.",
+      "Rahatlayın."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "title": "Doğa Günlüğü Tutmak",
+    "category": "curious",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Çevrenizdeki doğayı gözlemleyin ve not alın.",
+    "steps": [
+      "Bir defter ve bir yazı gereci alın.",
+      "15 dakika veya daha fazla süre dışarıda vakit geçirin ve gördüklerinizi not edin."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
   }
 ]
