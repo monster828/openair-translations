@@ -90,7 +90,7 @@
     "locationType": "backyard",
     "isIndoor": false,
     "durationMinutes": 25,
-    "description": "找出5种或更多种鸟类。",
+    "description": "找出5种或更多种鸟类",
     "steps": [
       "到户外去",
       "找到5只或以上的鸟",
@@ -249,7 +249,7 @@
     "locationType": "neighborhood",
     "isIndoor": false,
     "durationMinutes": 30,
-    "description": "骑自行车环游你的社区",
+    "description": "骑自行车在你的社区里转转",
     "steps": [
       "检查轮胎气压并戴上头盔。",
       "规划一条短途路线，途经你家附近或附近的自行车道。",
@@ -455,5 +455,80 @@
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "title": "露台清洗",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": "",
+    "durationMinutes": 30,
+    "description": "快速清洁并冲洗露台。",
+    "steps": [
+      "迅速收起露台上的所有物品。",
+      "把所有不宜沾水的物品放在一边。",
+      "冲洗露台，清除所有污垢。"
+    ],
+    "isPremium": "",
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 25,
+    "title": "拥抱一棵树",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 7,
+    "description": "走到户外，拥抱附近的一棵树。",
+    "steps": [
+      "找一棵树。",
+      "拥抱这棵树。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "title": "听音乐",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "放松一下，听听音乐",
+    "steps": [
+      "找把摇椅或户外舒适的地方放松一下。",
+      "播放一些舒缓的音乐。",
+      "闭上眼睛或欣赏周围的美景。",
+      "放松。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "title": "自然笔记",
+    "category": "curious",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "观察并记录你周围的自然环境。",
+    "steps": [
+      "带上笔记本和笔。",
+      "花15分钟或更长时间到户外，记录下你所看到的景象。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
   }
 ]
