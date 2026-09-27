@@ -455,5 +455,80 @@
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "title": "Lavado de patio",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Limpia y rocía rápidamente tu patio.",
+    "steps": [
+      "Guarda rápidamente cualquier objeto que haya en el patio.",
+      "Aparta todo lo que no deba mojarse.",
+      "Rocía el patio con agua y límpialo de la suciedad."
+    ],
+    "isPremium": "",
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 25,
+    "title": "Abraza un árbol",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 7,
+    "description": "Sal y abraza un árbol cercano.",
+    "steps": [
+      "Encuentra un árbol.",
+      "Abraza el árbol."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "title": "Escucha música",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Relájate mientras escuchas música.",
+    "steps": [
+      "Busca una mecedora o un lugar agradable para relajarte al aire libre.",
+      "Pon música relajante.",
+      "Cierra los ojos o contempla la belleza que te rodea.",
+      "Relájate."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "title": "Diario de naturaleza",
+    "category": "curious",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Observa y toma nota de la naturaleza que te rodea.",
+    "steps": [
+      "Coge un cuaderno y un bolígrafo.",
+      "Pasa 15 minutos o más al aire libre anotando lo que ves."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
   }
 ]
