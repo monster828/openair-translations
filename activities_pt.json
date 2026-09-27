@@ -12,8 +12,8 @@
     "durationMinutes": 15,
     "description": "Saia de casa cedo, antes do sol nascer completamente. Observe o nascer do sol.",
     "steps": [
-      "Saia cedo, antes do sol nascer.",
-      "Encontre um lugar confortável onde você possa ver o sol.",
+      "Saia de casa cedo, antes do sol nascer.",
+      "Encontre um lugar confortável de onde você possa ver o sol.",
       "Observe o nascer do sol sem olhar diretamente para ele."
     ],
     "isPremium": false,
@@ -101,7 +101,7 @@
   },
   {
     "id": 6,
-    "title": "Caminhada fotográfica na natureza",
+    "title": "Caminhada para Fotografia na Natureza",
     "category": "creative",
     "audiences": [
       "solo"
@@ -455,5 +455,80 @@
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "title": "Lavagem de pátio",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": "",
+    "durationMinutes": 30,
+    "description": "Limpe e lave rapidamente seu pátio.",
+    "steps": [
+      "Guarde rapidamente todos os objetos que estiverem no pátio.",
+      "Separe tudo o que não deve molhar.",
+      "Lave o pátio com água e limpe-o de qualquer sujeira."
+    ],
+    "isPremium": "",
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 25,
+    "title": "Abrace uma árvore",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 7,
+    "description": "Saia e abrace uma árvore próxima.",
+    "steps": [
+      "Encontre uma árvore.",
+      "Abrace a árvore."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "title": "Ouvir música",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Relaxe enquanto ouve música.",
+    "steps": [
+      "Encontre uma cadeira de balanço ou um lugar agradável para relaxar ao ar livre.",
+      "Ligue uma música relaxante.",
+      "Feche os olhos ou contemple a beleza ao seu redor.",
+      "Relaxe."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "title": "Diário de natureza",
+    "category": "curious",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Observe e anote a natureza ao seu redor.",
+    "steps": [
+      "Pegue um caderno e um instrumento de escrita.",
+      "Passe 15 minutos ou mais ao ar livre, anotando o que você vê."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
   }
 ]
