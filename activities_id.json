@@ -34,7 +34,7 @@
     "steps": [
       "Keluarlah sebelum matahari benar-benar terbenam.",
       "Temukan tempat yang nyaman untuk menyaksikan matahari terbenam.",
-      "Lihatlah semua warna yang berbeda yang ada saat matahari terbenam."
+      "Lihatlah semua warna yang berbeda saat matahari terbenam."
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -72,8 +72,8 @@
     "durationMinutes": 15,
     "description": "Temukan 5 jenis serangga atau lebih di luar ruangan.",
     "steps": [
-      "Keluarlah dan cari serangga.",
-      "Temukan 5 jenis serangga atau lebih."
+      "Keluar dan cari serangga",
+      "Temukan 5 jenis serangga atau lebih"
     ],
     "isPremium": true,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -171,7 +171,7 @@
     "description": "Main pickleball bersama teman-teman",
     "steps": [
       "Cari lapangan pickleball terdekat.",
-      "Pastikan untuk memeriksa ketersediaan lapangan.",
+      "Pastikan untuk memeriksa ketersediaan lapangan setempat.",
       "Ajak teman-temanmu.",
       "Mainkan pickleball bersama teman-teman."
     ],
@@ -191,8 +191,8 @@
     "description": "Bermain tenis bersama teman-teman",
     "steps": [
       "Cari lapangan tenis terdekat.",
-      "Pastikan untuk memeriksa ketersediaan lapangan tenis setempat.",
-      "Ajak teman-teman Anda.",
+      "Pastikan untuk mengecek ketersediaan lapangan tenis setempat.",
+      "Ajak teman-temanmu.",
       "Main tenis bersama teman-teman."
     ],
     "isPremium": true,
@@ -232,7 +232,7 @@
     "description": "Jelajahi jalur pendakian terdekat.",
     "steps": [
       "Temukan dan kunjungi jalur pendakian atau cagar alam terdekat.",
-      "Bawa air minum dan kenakan sepatu yang kokoh.",
+      "Bawalah air minum dan kenakan sepatu yang kokoh.",
       "Mulailah pendakian dan perhatikan pemandangan di sekitar Anda."
     ],
     "isPremium": true,
@@ -333,7 +333,7 @@
     "steps": [
       "Siapkan makan siang piknik cepat seperti sandwich dan buah-buahan.",
       "Pergilah ke taman atau ruang hijau terdekat.",
-      "Gelar selimut dan nikmati makanan Anda."
+      "Gelar selimut dan nikmati makananmu."
     ],
     "isPremium": true,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -455,5 +455,80 @@
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "title": "Cuci teras",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": "",
+    "durationMinutes": 30,
+    "description": "Bersihkan dan semprot teras Anda dengan cepat.",
+    "steps": [
+      "Segera singkirkan semua barang di teras.",
+      "Pisahkan barang-barang yang tidak boleh terkena air.",
+      "Semprotkan air ke teras dan bersihkan dari kotoran."
+    ],
+    "isPremium": "",
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 25,
+    "title": "Peluk Pohon",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 7,
+    "description": "Keluarlah dan peluk pohon di dekatmu.",
+    "steps": [
+      "Temukan sebuah pohon.",
+      "Peluk pohon itu."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "title": "Dengarkan musik",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Bersantailah sambil mendengarkan musik.",
+    "steps": [
+      "Carilah kursi goyang atau tempat yang nyaman untuk bersantai di luar.",
+      "Putar musik yang menenangkan.",
+      "Tutup mata Anda atau lihat keindahan di sekitar Anda.",
+      "Bersantailah."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "title": "Jurnal Alam",
+    "category": "curious",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Amati dan catatlah alam di sekitar Anda.",
+    "steps": [
+      "Ambil buku catatan dan alat tulis.",
+      "Luangkan waktu 15 menit atau lebih di luar sambil mencatat apa yang Anda lihat."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
   }
 ]
