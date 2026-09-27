@@ -426,7 +426,7 @@
     "locationType": "nature",
     "isIndoor": false,
     "durationMinutes": 60,
-    "description": "Installez une petite toile ou une feuille de papier et peignez un paysage extérieur.",
+    "description": "Installez une petite toile ou une feuille de papier et peignez un tableau représentant un paysage extérieur.",
     "steps": [
       "Rassemblez votre matériel de peinture.",
       "Trouvez un endroit inspirant à l'extérieur.",
@@ -455,5 +455,80 @@
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "title": "Lavage de terrasse",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": "",
+    "durationMinutes": 30,
+    "description": "Nettoyez et vaporisez rapidement votre terrasse.",
+    "steps": [
+      "Rangez rapidement tout ce qui se trouve sur la terrasse.",
+      "Mettez de côté tout ce qui ne doit pas être mouillé.",
+      "Nettoyez la terrasse au jet d'eau."
+    ],
+    "isPremium": "",
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 25,
+    "title": "Embrassez un arbre",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 7,
+    "description": "Sortez et embrassez un arbre proche.",
+    "steps": [
+      "Trouvez un arbre.",
+      "Efforcez-vous de prendre l'arbre dans vos bras."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "title": "Écoutez de la musique",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Détendez-vous en écoutant de la musique",
+    "steps": [
+      "Trouvez un fauteuil à bascule ou un endroit agréable pour vous détendre à l'extérieur.",
+      "Mettez de la musique relaxante.",
+      "Fermez les yeux ou contemplez la beauté qui vous entoure.",
+      "Détendez-vous."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "title": "Journal de nature",
+    "category": "curious",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Observez et prenez note de la nature qui vous entoure.",
+    "steps": [
+      "Prenez un carnet et un stylo.",
+      "Passez au moins 15 minutes à l'extérieur à observer et à noter ce que vous voyez."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-09-27T05:00:00.000Z"
   }
 ]
