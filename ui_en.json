@@ -131,5 +131,9 @@
   "aud_group": "Group",
   "saved": "saved",
   "logged": "logged",
-  "days": "days"
+  "days": "days",
+  "Notification_Title_1": "Fresh air is calling",
+  "Notification_Title_2": "Get out in the outdoors!",
+  "Notification_Title_3": "Ready to touch grass?",
+  "Notification_Description_1": "Take a quick break and explore the fresh air today."
 }
