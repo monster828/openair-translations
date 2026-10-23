@@ -25,7 +25,7 @@
   "Explore Ideas": "Ideen entdecken",
   "No activities match your filters.": "Keine Aktivitäten entsprechen Ihren Filtern.",
   "Saved Favorites": "Gespeicherte Favoriten",
-  "No favorite activities yet.\\nTap the heart icon on any activity to save it!": "Noch keine Lieblingsaktivitäten gefunden.\\nTippe auf das Herzsymbol bei einer beliebigen Aktivität, um sie zu speichern!",
+  "No favorite activities yet.\\nTap the heart icon on any activity to save it!": "Noch keine Lieblingsaktivitäten vorhanden.\\nTippe auf das Herzsymbol bei einer beliebigen Aktivität, um sie zu speichern!",
   "Premium Active": "Premium Aktiv",
   "Unlock Premium": "Premium freischalten",
   "DISCOVER": "ENTDECKEN",
@@ -106,7 +106,7 @@
   "Location": "Standort",
   "All Locations": "Alle Standorte",
   "Audience": "Publikum",
-  "All Audiences": "Für alle Zielgruppen",
+  "All Audiences": "Alle Zielgruppen",
   "Done": "Erledigt",
   "Preparing image to share...": "Bild wird zum Teilen vorbereitet...",
   "Explore more outdoors • Download Open Air": "Mehr Natur entdecken • Open Air herunterladen",
@@ -131,5 +131,9 @@
   "aud_group": "Gruppe",
   "saved": "gespeichert",
   "logged": "Protokolliert",
-  "days": "Tage"
+  "days": "Tage",
+  "Notification_Title_1": "Die frische Luft ruft",
+  "Notification_Title_2": "Raus in die Natur!",
+  "Notification_Title_3": "Bereit, Gras zu berühren?",
+  "Notification_Description_1": "Gönnen Sie sich heute eine kurze Auszeit und genießen Sie die frische Luft."
 }
