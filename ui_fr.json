@@ -131,5 +131,9 @@
   "aud_group": "Groupe",
   "saved": "sauvé",
   "logged": "connecté",
-  "days": "jours"
+  "days": "jours",
+  "Notification_Title_1": "L'air frais nous appelle",
+  "Notification_Title_2": "Sortez prendre l'air !",
+  "Notification_Title_3": "Prêt à toucher l'herbe ?",
+  "Notification_Description_1": "Faites une petite pause et profitez du grand air aujourd'hui."
 }
