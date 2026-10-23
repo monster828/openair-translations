@@ -131,5 +131,9 @@
   "aud_group": "Grupo",
   "saved": "guardado",
   "logged": "registrado",
-  "days": "días"
+  "days": "días",
+  "Notification_Title_1": "El aire fresco te llama",
+  "Notification_Title_2": "¡Sal a disfrutar del aire libre!",
+  "Notification_Title_3": "¿Listo para pisar el césped?",
+  "Notification_Description_1": "Tómate un breve descanso y disfruta del aire fresco hoy."
 }
