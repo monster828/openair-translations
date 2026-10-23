@@ -11,7 +11,7 @@
   "No Thanks": "結構です",
   "Log Memory": "ログメモリ",
   "Memory Limit Reached": "メモリ制限に達しました",
-  "Free users can only store up to 10 journal entries. Unlock lifetime access to save unlimited memories!": "無料ユーザーは最大10件の日記しか保存できません。永久アクセス権をアンロックすれば、無制限に思い出を保存できます！",
+  "Free users can only store up to 10 journal entries. Unlock lifetime access to save unlimited memories!": "無料ユーザーは最大10件の日記しか保存できません。無制限の思い出を保存するには、永久アクセス権をアンロックしてください！",
   "OK": "わかりました",
   "Log Active Memory": "ログアクティブメモリ",
   "How was {title}?": "{title}はどうでしたか？",
@@ -113,7 +113,7 @@
   "Share Card": "シェアカード",
   "Close": "近い",
   "Delete": "消去",
-  "Check out my outdoor memory for {title}! Captured with Open Air": "{title}の屋外での思い出をチェックしてください！Open Airで撮影しました。",
+  "Check out my outdoor memory for {title}! Captured with Open Air": "{title}の屋外での思い出をご覧ください！Open Airで撮影しました。",
   "Journal Logs": "ジャーナルログ",
   "cat_nature": "#REF!",
   "cat_creative": "自然",
@@ -131,5 +131,9 @@
   "aud_group": "グループ",
   "saved": "保存済み",
   "logged": "ログ",
-  "days": "日"
+  "days": "日",
+  "Notification_Title_1": "新鮮な空気があなたを呼んでいます",
+  "Notification_Title_2": "外に出て自然を満喫しよう！",
+  "Notification_Title_3": "芝生に触れる準備はできましたか？",
+  "Notification_Description_1": "今日はちょっと休憩して、新鮮な空気を吸いに行きましょう。"
 }
