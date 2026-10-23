@@ -4,7 +4,7 @@
   "Journal": "Dergi",
   "Profile": "Profil",
   "Activity Steps": "Aktivite Adımları",
-  "No steps available": "Bu açık uçlu aktiviteyle açık havada keyifli vakit geçirin!",
+  "No steps available": "Bu açık uçlu aktiviteyle açık havada geçirdiğiniz zamanın tadını çıkarın!",
   "Finish Activity": "Etkinliği Bitir",
   "Activity Completed!": "Etkinlik Tamamlandı!",
   "Great job finishing {title}. Would you like to log this as a memory in your journal?": "{title}'ı tamamladığınız için tebrikler. Bunu günlüğünüze bir anı olarak kaydetmek ister misiniz?",
@@ -131,5 +131,9 @@
   "aud_group": "Grup",
   "saved": "kaydedildi",
   "logged": "giriş yaptı",
-  "days": "günler"
+  "days": "günler",
+  "Notification_Title_1": "Temiz hava çağırıyor",
+  "Notification_Title_2": "Dışarı çıkın, doğayla iç içe olun!",
+  "Notification_Title_3": "Çimlere dokunmaya hazır mısınız?",
+  "Notification_Description_1": "Bugün kısa bir mola verin ve temiz havayı soluyun."
 }
