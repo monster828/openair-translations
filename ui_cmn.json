@@ -4,7 +4,7 @@
   "Journal": "杂志",
   "Profile": "轮廓",
   "Activity Steps": "活动步骤",
-  "No steps available": "尽情享受户外时光，参与这项开放式活动吧！",
+  "No steps available": "尽情享受户外时光，参与这项开放式的活动吧！",
   "Finish Activity": "完成活动",
   "Activity Completed!": "活动完成！",
   "Great job finishing {title}. Would you like to log this as a memory in your journal?": "恭喜你完成了{title}。你想把这件事记录在你的日记里吗？",
@@ -109,7 +109,7 @@
   "All Audiences": "所有观众",
   "Done": "完毕",
   "Preparing image to share...": "正在准备分享图片……",
-  "Explore more outdoors • Download Open Air": "探索更多户外空间 • 下载《户外探险》",
+  "Explore more outdoors • Download Open Air": "探索更多户外空间 • 下载《户外探索》",
   "Share Card": "共享卡",
   "Close": "关闭",
   "Delete": "删除",
@@ -131,5 +131,9 @@
   "aud_group": "团体",
   "saved": "已保存",
   "logged": "已登录",
-  "days": "天"
+  "days": "天",
+  "Notification_Title_1": "新鲜空气在召唤",
+  "Notification_Title_2": "到户外去吧！",
+  "Notification_Title_3": "准备好触摸草地了吗？",
+  "Notification_Description_1": "今天抽出一点时间，出去呼吸一下新鲜空气吧。"
 }
