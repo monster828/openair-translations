@@ -42,7 +42,7 @@
   "Add Custom Memory": "Adicionar memória personalizada",
   "No memories yet — try an activity!": "Ainda não tem memórias? Experimente uma atividade!",
   "Full access unlocked — thank you!": "Acesso total desbloqueado — obrigado!",
-  "Pro Adventurer": "Aventureiro Profissional",
+  "Pro Adventurer": "Aventureiro profissional",
   "Member": "Membro",
   "Edit Profile": "Editar perfil",
   "Weekly Activity (Minutes)": "Atividade semanal (minutos)",
@@ -131,5 +131,9 @@
   "aud_group": "Grupo",
   "saved": "salvo",
   "logged": "conectado",
-  "days": "dias"
+  "days": "dias",
+  "Notification_Title_1": "O ar fresco está chamando",
+  "Notification_Title_2": "Saia para a natureza!",
+  "Notification_Title_3": "Pronto para tocar na grama?",
+  "Notification_Description_1": "Faça uma pequena pausa e aproveite o ar fresco hoje."
 }
