@@ -69,7 +69,7 @@
   "Based on your frequency and habits, this was your official outdoor persona!": "Berdasarkan frekuensi dan kebiasaan Anda, inilah persona luar ruangan resmi Anda!",
   "Longest Streak": "Rentetan Terpanjang",
   "Peak Month": "Bulan Puncak",
-  "This month saw you heading outside more than any other time all year.": "Bulan ini Anda lebih sering keluar rumah dibandingkan waktu lain sepanjang tahun.",
+  "This month saw you heading outside more than any other time all year.": "Bulan ini Anda lebih sering beraktivitas di luar ruangan dibandingkan waktu lain sepanjang tahun.",
   "Memories Captured": "Kenangan yang Terabadikan",
   "You pinned down notes, reflections, and snapshots along your path.": "Anda mencatat catatan, refleksi, dan foto-foto sepanjang perjalanan Anda.",
   "Click to continue": "Klik untuk melanjutkan",
@@ -131,5 +131,9 @@
   "aud_group": "Kelompok",
   "saved": "tersimpan",
   "logged": "masuk",
-  "days": "hari"
+  "days": "hari",
+  "Notification_Title_1": "Udara segar memanggil",
+  "Notification_Title_2": "Ayo keluar dan nikmati alam bebas!",
+  "Notification_Title_3": "Siap menyentuh rumput?",
+  "Notification_Description_1": "Luangkan waktu sejenak untuk beristirahat dan menghirup udara segar hari ini."
 }
