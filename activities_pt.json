@@ -34,7 +34,7 @@
     "steps": [
       "Saia antes que o sol se ponha completamente.",
       "Encontre um lugar confortável para assistir ao pôr do sol.",
-      "Aprecie todas as cores diferentes que aparecem durante o pôr do sol."
+      "Aprecie todas as diferentes cores que aparecem durante o pôr do sol."
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -101,7 +101,7 @@
   },
   {
     "id": 6,
-    "title": "Caminhada para Fotografia na Natureza",
+    "title": "Caminhada fotográfica na natureza",
     "category": "creative",
     "audiences": [
       "solo"
@@ -129,7 +129,7 @@
     "locationType": "nature",
     "isIndoor": false,
     "durationMinutes": 45,
-    "description": "Combine uma caminhada na natureza com a observação e o acompanhamento da identificação de espécies de aves locais.",
+    "description": "Combine uma caminhada na natureza com a observação e a escuta atenta das espécies de aves locais.",
     "steps": [
       "Escolha uma trilha na mata local.",
       "Caminhe em silêncio e ouça o canto dos pássaros.",
@@ -309,7 +309,7 @@
     "locationType": "urban",
     "isIndoor": false,
     "durationMinutes": 30,
-    "description": "Vá até um parque próximo para fazer um treino rápido com o peso do corpo.",
+    "description": "Vá até um parque próximo para fazer um treino rápido com o peso do próprio corpo.",
     "steps": [
       "Encontre uma área gramada aberta ou um banco de parque.",
       "Complete um circuito de flexões, agachamentos e afundos.",
@@ -466,7 +466,7 @@
     "locationType": "backyard",
     "isIndoor": "",
     "durationMinutes": 30,
-    "description": "Limpe e lave rapidamente seu pátio.",
+    "description": "Limpe e pulverize rapidamente seu pátio.",
     "steps": [
       "Guarde rapidamente todos os objetos que estiverem no pátio.",
       "Separe tudo o que não deve molhar.",
@@ -484,7 +484,7 @@
     ],
     "locationType": "backyard",
     "isIndoor": false,
-    "durationMinutes": 7,
+    "durationMinutes": 5,
     "description": "Saia e abrace uma árvore próxima.",
     "steps": [
       "Encontre uma árvore.",
@@ -530,5 +530,414 @@
     ],
     "isPremium": true,
     "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 28,
+    "title": "Caminhada silenciosa pelo bairro",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "neighborhood",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Reflita enquanto caminha pelo seu bairro.",
+    "steps": [
+      "Escolha seu percurso.",
+      "Calce um bom par de tênis de caminhada.",
+      "Deixe o celular no bolso ou no silencioso.",
+      "Observe seus arredores e aproveite um momento de reflexão sem interrupções enquanto caminha."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 29,
+    "title": "Diário de Quintal",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Faça uma pequena pausa ao ar livre para clarear a mente e registrar seus pensamentos.",
+    "steps": [
+      "Pegue um caderno e sua caneta favorita.",
+      "Saia e vá para um lugar tranquilo e confortável.",
+      "Passe 15 minutos escrevendo livremente — registre seus pensamentos, como está sendo o seu dia ou o que você observa ao seu redor."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 30,
+    "title": "Caça ao Tesouro na Natureza",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Procure uma lista de objetos e elementos naturais do seu dia a dia.",
+    "steps": [
+      "Encontre uma superfície áspera (casca de árvore, tijolo velho ou pedra desgastada).",
+      "Localize um objeto amarelo brilhante (flor, folha ou placa).",
+      "Aviste algo macio (pena, musgo ou um pedaço de grama).",
+      "Encontre algo feito pelo homem na natureza e recolha-o se for lixo (para pontos extras!)."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "title": "Caça ao Tesouro Avançada na Natureza",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Procure por criaturas vivas, elementos aquáticos e sinais sutis de crescimento.",
+    "steps": [
+      "Aviste um habitante local (inseto, pássaro ou pequeno animal).",
+      "Encontre um sinal de crescimento (vagem de sementes, cogumelo ou broto verde).",
+      "Observe um objeto ou criatura voadora (avião, abelha ou borboleta).",
+      "Localize uma fonte de água natural ou artificial."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 32,
+    "title": "Jardim de fadas ao ar livre",
+    "category": "creative",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "Crie seu próprio jardim de fadas em miniatura usando materiais naturais ao ar livre.",
+    "steps": [
+      "Escolha um local externo protegido para o seu jardim de fadas.",
+      "Reúna pequenas plantas, flores silvestres ou tufos de musgo.",
+      "Colete pequenos gravetos, galhos e pedrinhas que estiverem por perto.",
+      "Construa uma casinha em miniatura usando os gravetos que você coletou.",
+      "Crie caminhos de pedra em miniatura usando as pedrinhas."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 33,
+    "title": "Passeio no parque",
+    "category": "active",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Dê uma volta em um parque próximo, mantendo o celular guardado.",
+    "steps": [
+      "Vá a um parque ao ar livre próximo.",
+      "Coloque seu celular no bolso ou na bolsa, no modo silencioso.",
+      "Dê uma volta completa no parque.",
+      "Concentre-se nas imagens e sons ao seu redor enquanto caminha."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 34,
+    "title": "Coma ao ar livre",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Desfrute de uma refeição ou lanche ao ar livre.",
+    "steps": [
+      "Prepare um prato com sua comida ou bebida favorita.",
+      "Vá para o seu pátio, terraço ou mesa de piquenique.",
+      "Saboreie sua refeição com atenção plena enquanto aproveita a brisa fresca."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 35,
+    "title": "Tomar sol",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Aproveite a luz solar natural com segurança para relaxar e recarregar as energias.",
+    "steps": [
+      "Aplique protetor solar e coloque óculos de sol.",
+      "Estenda uma toalha ou uma cadeira de praia em um local ensolarado.",
+      "Relaxe e aproveite o calor por 15 a 20 minutos."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 36,
+    "title": "Meditação",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Pratique a respiração consciente em um ambiente tranquilo ao ar livre.",
+    "steps": [
+      "Encontre uma posição sentada confortável na grama ou em um banco.",
+      "Feche os olhos e concentre-se na sua respiração.",
+      "Ouça os sons ambientes externos enquanto centra seus pensamentos."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 37,
+    "title": "Observação de nuvens",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Deite-se e observe as nuvens deslizarem pelo céu.",
+    "steps": [
+      "Estenda uma manta na grama.",
+      "Deite-se e olhe para o céu.",
+      "Observe as mudanças nas formas das nuvens, nas sombras e nas texturas."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 38,
+    "title": "Botânico",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "Explore um jardim botânico local ou uma coleção de flora.",
+    "steps": [
+      "Visite um jardim botânico ou parque próximo com uma flora diversificada.",
+      "Examine diferentes flores, árvores e plantas nativas.",
+      "Anote suas variedades botânicas favoritas."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 39,
+    "title": "Observando peixes",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Observe a vida aquática em um lago, riacho ou represa local.",
+    "steps": [
+      "Vá até um lago, riacho ou corpo d'água público próximo.",
+      "Encontre um ponto de observação tranquilo na margem.",
+      "Observe os peixes nadando e se alimentando sob a superfície."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 40,
+    "title": "comedouros para pássaros",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Instale ou reabasteça os comedouros de pássaros e observe as aves que os visitam.",
+    "steps": [
+      "Verifique o comedouro de pássaros externo e reabasteça-o com sementes frescas.",
+      "Limpe a área de alimentação para manter os pássaros saudáveis.",
+      "Observe à distância os pássaros locais chegando para se alimentar."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 41,
+    "title": "Passeios na Natureza",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Faça uma caminhada tranquila e relaxante em meio à natureza.",
+    "steps": [
+      "Escolha uma trilha natural com belas paisagens ou um caminho na mata.",
+      "Caminhe em um ritmo tranquilo e relaxado.",
+      "Observe as árvores, plantas e animais selvagens ao longo da trilha."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 42,
+    "title": "Observando a vida selvagem",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Observe silenciosamente a vida selvagem local em seu habitat natural.",
+    "steps": [
+      "Encontre um local tranquilo para observar a vida selvagem em um parque ou reserva natural.",
+      "Sente-se ou fique em pé em silêncio, sem perturbar o habitat.",
+      "Procure por esquilos, coelhos, veados ou outros animais da floresta."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 43,
+    "title": "Colheita de flores",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Reúna um pequeno buquê de flores silvestres ou flores do jardim.",
+    "steps": [
+      "Encontre um local onde seja permitido colher flores.",
+      "Selecione algumas flores vibrantes e viçosas.",
+      "Apare as hastes com cuidado e faça um pequeno buquê."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 44,
+    "title": "Quebra-cabeça",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Resolva um quebra-cabeça, uma palavra cruzada ou um enigma lógico ao ar livre, aproveitando a brisa.",
+    "steps": [
+      "Leve um livro de palavras cruzadas, um tabuleiro ou uma caixa de quebra-cabeças para uma mesa ao ar livre.",
+      "Escolha um local sombreado com bastante luz natural.",
+      "Divirta-se concentrando-se em resolver as peças ou as pistas ao ar livre."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 45,
+    "title": "Sítios históricos",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "Visite e explore um monumento ou ponto turístico histórico ao ar livre.",
+    "steps": [
+      "Pesquise um marco ou sítio histórico ao ar livre na sua região.",
+      "Viaje até o local e explore o terreno.",
+      "Leia as placas informativas para aprender sobre a história do local."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 46,
+    "title": "Jogos de quintal",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Divirta-se com jogos ao ar livre no gramado, como arremesso de sacos de milho, bocha ou frisbee.",
+    "steps": [
+      "Prepare jogos de jardim como cornhole, croquet ou bocha.",
+      "Reúna amigos ou familiares.",
+      "Jogue uma partida amistosa ou uma rodada de jogos ao ar livre."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 47,
+    "title": "Caça ao Tesouro",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "Organize ou participe de uma divertida caça ao tesouro ao ar livre.",
+    "steps": [
+      "Crie ou siga uma série de pistas escondidas pelo quintal ou parque.",
+      "Forme equipes ou procure individualmente.",
+      "Siga cada pista para descobrir o prêmio final."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
   }
 ]
