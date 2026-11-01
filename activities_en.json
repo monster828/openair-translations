@@ -244,7 +244,8 @@
     "category": "active",
     "audiences": [
       "solo",
-      "group"
+      "group",
+      "date"
     ],
     "locationType": "neighborhood",
     "isIndoor": false,
@@ -274,7 +275,7 @@
       "Put on a great playlist or album.",
       "Kick back and relax without looking at a screen."
     ],
-    "isPremium": false,
+    "isPremium": true,
     "Date Added": "2026-09-03T05:00:00.000Z"
   },
   {
@@ -362,7 +363,8 @@
     "title": "Swimming",
     "category": "active",
     "audiences": [
-      "solo"
+      "solo",
+      "group"
     ],
     "locationType": "nature",
     "isIndoor": false,
@@ -381,7 +383,8 @@
     "title": "Sketchbook Challenge",
     "category": "creative",
     "audiences": [
-      "solo"
+      "solo",
+      "date"
     ],
     "locationType": "backyard",
     "isIndoor": false,
@@ -400,7 +403,8 @@
     "title": "Nature Sketch & Snack",
     "category": "creative",
     "audiences": [
-      "solo"
+      "solo",
+      "date"
     ],
     "locationType": "nature",
     "isIndoor": false,
@@ -472,7 +476,7 @@
       "Set asside anything that shouldn't get wet.",
       "Spray down the patio and clean it from any dirt."
     ],
-    "isPremium": "",
+    "isPremium": false,
     "Date Added": "2026-09-27T05:00:00.000Z"
   },
   {
@@ -484,7 +488,7 @@
     ],
     "locationType": "backyard",
     "isIndoor": false,
-    "durationMinutes": 7,
+    "durationMinutes": 5,
     "description": "Go outside and hug a nearby tree",
     "steps": [
       "Find a tree.",
@@ -498,7 +502,8 @@
     "title": "Listen to music",
     "category": "chill",
     "audiences": [
-      "solo"
+      "solo",
+      "date"
     ],
     "locationType": "backyard",
     "isIndoor": false,
@@ -530,5 +535,414 @@
     ],
     "isPremium": true,
     "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 28,
+    "title": "Neighborhood Silent Walk",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "neighborhood",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Contemplate while taking a walk around your neighborhood.",
+    "steps": [
+      "Decide your route.",
+      "Put on some good walking shoes.",
+      "Leave your phone in your pocket or on silent.",
+      "Notice your surroundings and enjoy a moment of uninterrupted reflection as you walk."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 29,
+    "title": "Backyard Journaling",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Take a short outdoor break to clear your mind and log your thoughts.",
+    "steps": [
+      "Grab a journal and your favorite pen.",
+      "Step outside to a quiet, comfortable spot.",
+      "Spend 15 minutes writing freely—record your thoughts, how your day is going, or what you notice around you."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 30,
+    "title": "Nature Scavenger Hunt",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Find a list of everyday natural objects and elements around you.",
+    "steps": [
+      "Find a rough surface (tree bark, old brick, or weathered stone).",
+      "Locate a bright yellow item (flower, leaf, or sign).",
+      "Spot something soft (feather, moss, or patch of grass).",
+      "Find something man-made in nature and pick it up if it's trash (for bonus points!)."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "title": "Advanced Nature Scavenger Hunt",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Find living creatures, water features, and subtle signs of growth.",
+    "steps": [
+      "Spot a local inhabitant (insect, bird, or small animal).",
+      "Find a sign of growth (seed pod, mushroom, or green shoot).",
+      "Observe a flying object or creature (airplane, bee, or butterfly).",
+      "Locate a natural or artificial water feature."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 32,
+    "title": "Outdoor Fairy Garden",
+    "category": "creative",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "Put together your own miniature fairy garden using natural materials outside.",
+    "steps": [
+      "Choose a sheltered outdoor location for your fairy garden.",
+      "Gather small plants, wildflowers, or moss patches.",
+      "Collect small sticks, twigs, and pebbles nearby.",
+      "Build a tiny house structure using your gathered sticks.",
+      "Lay out miniature stone pathways using your pebbles."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 33,
+    "title": "Park Walk",
+    "category": "active",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Walk around a nearby park while keeping your phone put away.",
+    "steps": [
+      "Go to a nearby outdoor park.",
+      "Put your phone in your pocket or bag on silent mode.",
+      "Walk a full loop around the park.",
+      "Focus your attention on sights and sounds around you as you walk."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 34,
+    "title": "Eat outside",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Enjoy a meal or snack in the open air.",
+    "steps": [
+      "Prepare a plate with your favorite food or beverage.",
+      "Head outside to your patio, deck, or picnic table.",
+      "Savor your meal mindfully while enjoying the fresh breeze."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 35,
+    "title": "Sunbathing",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Soak up natural sunlight safely to relax and recharge.",
+    "steps": [
+      "Apply sunscreen and put on sunglasses.",
+      "Lay out a towel or reclining chair in a sunny spot.",
+      "Relax and absorb the warmth for 15 to 20 minutes."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 36,
+    "title": "Meditation",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Practice mindful breathing in a quiet outdoor setting.",
+    "steps": [
+      "Find a comfortable seated position on the grass or a bench.",
+      "Close your eyes and focus on your breath.",
+      "Listen to ambient outdoor sounds as you center your thoughts."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 37,
+    "title": "Cloud watching",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Lie back and watch the clouds drift across the sky.",
+    "steps": [
+      "Spread a blanket out on the grass.",
+      "Lie down and look up at the sky.",
+      "Notice the changing cloud shapes, shadows, and textures."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 38,
+    "title": "Botanical",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "Explore a local botanical garden or flora collection.",
+    "steps": [
+      "Visit a nearby botanical garden or park with diverse plant life.",
+      "Examine different flowers, trees, and native plants.",
+      "Take note of your favorite botanical varieties."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 39,
+    "title": "Watching fish",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Observe aquatic life in a local pond, stream, or lake.",
+    "steps": [
+      "Head to a nearby pond, stream, or public water feature.",
+      "Find a quiet vantage point along the water's edge.",
+      "Watch for fish swimming and feeding beneath the surface."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 40,
+    "title": "Bird feeders",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Set up or refill bird feeders and watch visiting birds.",
+    "steps": [
+      "Check your outdoor bird feeder and refill it with fresh seed.",
+      "Clean the feeding area to keep birds healthy.",
+      "Watch from a distance as local birds arrive to feed."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 41,
+    "title": "Nature Walks",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Take a gentle, relaxed walk through natural surroundings.",
+    "steps": [
+      "Choose a scenic nature path or wooded trail.",
+      "Walk at an easy, relaxed pace.",
+      "Observe the trees, plants, and wildlife along the trail."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 42,
+    "title": "Watching Wildlife",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Quietly observe local wildlife in their natural habitat.",
+    "steps": [
+      "Find a peaceful observation spot in a park or nature reserve.",
+      "Sit or stand quietly without disturbing the habitat.",
+      "Scan for squirrels, rabbits, deer, or other woodland creatures."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 43,
+    "title": "Flower picking",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Gather a small bouquet of wildflowers or garden blooms.",
+    "steps": [
+      "Find a location where flower picking is permitted.",
+      "Select a few vibrant, blooming flowers.",
+      "Trim stems carefully and arrange them into a small bouquet."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 44,
+    "title": "Puzzle",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Solve a jigsaw, crossword, or logic puzzle outdoors in the breeze.",
+    "steps": [
+      "Bring a puzzle book, board, or puzzle box to an outdoor table.",
+      "Set up in a shaded spot with plenty of natural light.",
+      "Enjoy focusing on solving pieces or clues outdoors."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 45,
+    "title": "Historical Sites",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "Visit and tour an outdoor historical monument or landmark.",
+    "steps": [
+      "Research an outdoor historic landmark or site in your area.",
+      "Travel to the location and walk the grounds.",
+      "Read information plaques to learn about the history of the site."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 46,
+    "title": "Backyard Games",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Play outdoor lawn games like cornhole, bocce, or frisbee.",
+    "steps": [
+      "Set up lawn games like cornhole, croquet, or bocce ball in the yard.",
+      "Gather friends or family members.",
+      "Play a friendly match or round of games outdoors."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 47,
+    "title": "Treasure Hunt",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "Organize or participate in a fun outdoor treasure hunt.",
+    "steps": [
+      "Create or follow a set of clues hidden around the yard or park.",
+      "Form teams or hunt individually.",
+      "Follow each clue to uncover the final prize."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
   }
 ]
