@@ -325,7 +325,7 @@
     "locationType": "backyard",
     "isIndoor": false,
     "durationMinutes": 20,
-    "description": "Such dir einen gemütlichen Platz und tauche ein in ein richtiges Buch",
+    "description": "Such dir einen gemütlichen Platz und tauche ein in ein gedrucktes Buch.",
     "steps": [
       "Schnapp dir ein richtiges Buch (keinen E-Reader!). Such dir einen bequemen Stuhl, eine Hängematte oder ein Plätzchen im Gras. Lies 20 Minuten lang ungestört."
     ],
@@ -416,7 +416,7 @@
     "durationMinutes": 15,
     "description": "Machen Sie einen erfrischenden Spaziergang durch Ihre Nachbarschaft, um den Kopf frei zu bekommen.",
     "steps": [
-      "Ziehen Sie bequeme Schuhe an. Gehen Sie nach draußen und suchen Sie sich eine Strecke aus, die Sie schon länger nicht mehr gegangen sind. Gehen Sie in gleichmäßigem Tempo und lassen Sie Ihr Handy in der Tasche."
+      "Ziehen Sie bequeme Wanderschuhe an. Gehen Sie nach draußen und suchen Sie sich eine Strecke aus, die Sie schon länger nicht mehr gegangen sind. Gehen Sie in gleichmäßigem Tempo und lassen Sie Ihr Handy in der Tasche."
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -447,7 +447,7 @@
     ],
     "locationType": "backyard",
     "isIndoor": false,
-    "durationMinutes": 7,
+    "durationMinutes": 5,
     "description": "Geh nach draußen und umarme einen Baum in der Nähe.",
     "steps": [
       "Such dir einen Baum. Umarme den Baum."
@@ -488,5 +488,380 @@
     ],
     "isPremium": true,
     "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 28,
+    "title": "Stiller Spaziergang durch die Nachbarschaft",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "neighborhood",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Denken Sie nach, während Sie einen Spaziergang durch Ihre Nachbarschaft machen.",
+    "steps": [
+      "Wähle deine Route. Zieh bequeme Wanderschuhe an. Lass dein Handy in der Tasche oder schalte es stumm. Nimm deine Umgebung bewusst wahr und genieße einen Moment ungestörter Besinnung während des Spaziergangs."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 29,
+    "title": "Gartentagebuch",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Gönnen Sie sich eine kurze Auszeit im Freien, um den Kopf frei zu bekommen und Ihre Gedanken festzuhalten.",
+    "steps": [
+      "Schnapp dir ein Notizbuch und deinen Lieblingsstift. Geh nach draußen an einen ruhigen, bequemen Platz. Nimm dir 15 Minuten Zeit zum Schreiben – notiere deine Gedanken, wie dein Tag verläuft oder was du um dich herum bemerkst."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 30,
+    "title": "Natur-Schnitzeljagd",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Finde eine Liste alltäglicher Naturgegenstände und -elemente in deiner Umgebung.",
+    "steps": [
+      "Finde eine raue Oberfläche (Baumrinde, alte Ziegel oder verwitterten Stein). Finde einen leuchtend gelben Gegenstand (Blume, Blatt oder Schild). Entdecke etwas Weiches (Feder, Moos oder Grasbüschel). Finde etwas von Menschenhand Geschaffenes in der Natur und hebe es auf, falls es Müll ist (für Bonuspunkte!)."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "title": "Fortgeschrittene Natur-Schnitzeljagd",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Halten Sie Ausschau nach Lebewesen, Wasserstellen und subtilen Anzeichen von Wachstum.",
+    "steps": [
+      "Entdecken Sie einen einheimischen Bewohner (Insekt, Vogel oder Kleintier).",
+      "Finden Sie ein Anzeichen von Wachstum (Samenkapsel, Pilz oder grünen Trieb).",
+      "Beobachten Sie ein fliegendes Objekt oder Lebewesen (Flugzeug, Biene oder Schmetterling).",
+      "Finden Sie ein natürliches oder künstliches Gewässer."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 32,
+    "title": "Feengarten im Freien",
+    "category": "creative",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "Gestalte im Freien deinen eigenen Miniatur-Feengarten aus natürlichen Materialien.",
+    "steps": [
+      "Wähle einen geschützten Platz im Freien für deinen Feengarten. Sammle kleine Pflanzen, Wildblumen oder Moos. Sammle kleine Stöcke, Zweige und Kieselsteine ​​in der Nähe. Baue aus den gesammelten Stöcken ein kleines Häuschen. Lege mit den Kieselsteinen Miniaturwege an."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 33,
+    "title": "Parkspaziergang",
+    "category": "active",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Spazieren Sie in einem nahegelegenen Park und lassen Sie Ihr Handy dabei weg.",
+    "steps": [
+      "Geh in einen nahegelegenen Park.",
+      "Steck dein Handy stumm in die Tasche oder mach einen Spaziergang um den Park.",
+      "Konzentriere dich dabei auf die Geräusche und Eindrücke um dich herum."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 34,
+    "title": "Im Freien essen",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Genießen Sie eine Mahlzeit oder einen Snack im Freien.",
+    "steps": [
+      "Richten Sie sich einen Teller mit Ihrem Lieblingsessen oder -getränk an. Gehen Sie nach draußen auf Ihre Terrasse, Ihren Balkon oder an Ihren Picknicktisch. Genießen Sie Ihre Mahlzeit bewusst und lassen Sie sich von der frischen Brise verzaubern."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 35,
+    "title": "Sonnenbaden",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Genießen Sie die natürliche Sonneneinstrahlung auf sichere Weise, um sich zu entspannen und neue Energie zu tanken.",
+    "steps": [
+      "Tragen Sie Sonnencreme auf und setzen Sie eine Sonnenbrille auf. Legen Sie ein Handtuch oder einen Liegestuhl an einen sonnigen Platz. Entspannen Sie sich und genießen Sie die Wärme 15 bis 20 Minuten lang."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 36,
+    "title": "Meditation",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Übe achtsames Atmen in einer ruhigen Umgebung im Freien.",
+    "steps": [
+      "Suchen Sie sich eine bequeme Sitzposition im Gras oder auf einer Bank. Schließen Sie die Augen und konzentrieren Sie sich auf Ihren Atem. Lauschen Sie den Geräuschen der Natur, während Sie Ihre Gedanken ordnen."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 37,
+    "title": "Wolkenbeobachtung",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Lehn dich zurück und beobachte, wie die Wolken über den Himmel ziehen.",
+    "steps": [
+      "Breite eine Decke auf der Wiese aus. Leg dich hin und schau in den Himmel. Beobachte die sich verändernden Wolkenformen, Schatten und Strukturen."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 38,
+    "title": "Botanisch",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "Erkunden Sie einen lokalen botanischen Garten oder eine Pflanzensammlung.",
+    "steps": [
+      "Besuchen Sie einen nahegelegenen botanischen Garten oder Park mit vielfältiger Pflanzenwelt. Betrachten Sie verschiedene Blumen, Bäume und einheimische Pflanzen. Notieren Sie sich Ihre Lieblingspflanzen."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 39,
+    "title": "Fische beobachten",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Beobachten Sie die Wasserlebewesen in einem Teich, Bach oder See in Ihrer Nähe.",
+    "steps": [
+      "Begeben Sie sich zu einem nahegelegenen Teich, Bach oder einem öffentlichen Gewässer. Suchen Sie sich einen ruhigen Platz am Ufer. Beobachten Sie Fische, die unter der Wasseroberfläche schwimmen und fressen."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 40,
+    "title": "Vogelfutterhäuschen",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Stellen Sie Vogelfutterhäuschen auf oder füllen Sie sie auf und beobachten Sie die Vögel, die Sie besuchen.",
+    "steps": [
+      "Überprüfen Sie Ihr Vogelfutterhaus im Freien und füllen Sie es mit frischem Futter auf. Reinigen Sie den Futterplatz, um die Vögel gesund zu halten. Beobachten Sie aus der Ferne, wenn die Vögel zum Fressen kommen."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 41,
+    "title": "Naturwanderungen",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Machen Sie einen gemütlichen, entspannten Spaziergang durch die Natur.",
+    "steps": [
+      "Wählen Sie einen malerischen Naturpfad oder Waldweg.",
+      "Gehen Sie in einem gemütlichen Tempo.",
+      "Beobachten Sie die Bäume, Pflanzen und Tiere am Wegesrand."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 42,
+    "title": "Wildtiere beobachten",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Beobachten Sie die einheimische Tierwelt in Ruhe in ihrem natürlichen Lebensraum.",
+    "steps": [
+      "Suchen Sie sich einen ruhigen Beobachtungsplatz in einem Park oder Naturschutzgebiet. Setzen oder stellen Sie sich leise hin, ohne die Tiere zu stören. Halten Sie Ausschau nach Eichhörnchen, Kaninchen, Rehen oder anderen Waldtieren."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 43,
+    "title": "Blumenpflücken",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Stelle einen kleinen Strauß Wildblumen oder Gartenblumen zusammen.",
+    "steps": [
+      "Suchen Sie einen Ort, an dem das Pflücken von Blumen erlaubt ist.",
+      "Pflanzen Sie einige leuchtende, blühende Blumen. Schneiden Sie die Stiele vorsichtig an und binden Sie sie zu einem kleinen Strauß."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 44,
+    "title": "Puzzle",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Lösen Sie ein Puzzle, ein Kreuzworträtsel oder ein Logikrätsel im Freien an der frischen Luft.",
+    "steps": [
+      "Bringen Sie ein Rätselbuch, ein Rätselbrett oder eine Rätselbox mit an einen Tisch im Freien. Suchen Sie sich einen schattigen Platz mit viel Tageslicht. Genießen Sie es, sich draußen auf das Lösen der Rätsel oder das Beantworten der Hinweise zu konzentrieren."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 45,
+    "title": "Historische Stätten",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "Besuchen und besichtigen Sie ein historisches Denkmal oder eine Sehenswürdigkeit im Freien.",
+    "steps": [
+      "Recherchieren Sie eine historische Sehenswürdigkeit oder Stätte im Freien in Ihrer Nähe.",
+      "Besuchen Sie den Ort und erkunden Sie das Gelände.",
+      "Lesen Sie die Informationstafeln, um mehr über die Geschichte des Ortes zu erfahren."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 46,
+    "title": "Gartenspiele",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Spielen Sie Rasenspiele im Freien wie Cornhole, Boccia oder Frisbee.",
+    "steps": [
+      "Organisieren Sie Gartenspiele wie Cornhole, Krocket oder Boccia im Garten. Laden Sie Freunde oder Familie ein. Spielen Sie ein Freundschaftsspiel oder eine Runde Spiele im Freien."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 47,
+    "title": "Schatzsuche",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "Organisiere eine lustige Schatzsuche im Freien oder nimm daran teil.",
+    "steps": [
+      "Erstelle oder folge den Hinweisen, die im Garten oder Park versteckt sind.",
+      "Bildet Teams oder sucht alleine.",
+      "Folge jedem Hinweis, um den Hauptpreis zu finden."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
   }
 ]
