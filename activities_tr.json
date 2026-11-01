@@ -484,7 +484,7 @@
     ],
     "locationType": "backyard",
     "isIndoor": false,
-    "durationMinutes": 7,
+    "durationMinutes": 5,
     "description": "Dışarı çıkın ve yakındaki bir ağaca sarılın.",
     "steps": [
       "Bir ağaç bulun.",
@@ -530,5 +530,414 @@
     ],
     "isPremium": true,
     "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 28,
+    "title": "Mahalle Sessiz Yürüyüşü",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "neighborhood",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Mahallenizde yürüyüş yaparken düşüncelere dalın.",
+    "steps": [
+      "Rotanızı belirleyin.",
+      "Rahat yürüyüş ayakkabıları giyin.",
+      "Telefonunuzu cebinizde bırakın veya sessize alın.",
+      "Çevrenizi gözlemleyin ve yürürken kesintisiz bir düşünme anının tadını çıkarın."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 29,
+    "title": "Bahçe Günlüğü Tutmak",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Zihninizi boşaltmak ve düşüncelerinizi kaydetmek için kısa bir süre dışarıda vakit geçirin.",
+    "steps": [
+      "Bir defter ve en sevdiğiniz kalemi alın.",
+      "Dışarıda, sessiz ve rahat bir yere çıkın.",
+      "15 dakika boyunca özgürce yazın; düşüncelerinizi, gününüzün nasıl geçtiğini veya çevrenizde fark ettiklerinizi kaydedin."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 30,
+    "title": "Doğa Keşif Avı",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Çevrenizdeki günlük doğal nesnelerin ve unsurların bir listesini bulun.",
+    "steps": [
+      "Pürüzlü bir yüzey bulun (ağaç kabuğu, eski tuğla veya aşınmış taş).",
+      "Parlak sarı bir nesne bulun (çiçek, yaprak veya tabela).",
+      "Yumuşak bir şey bulun (tüy, yosun veya çimen parçası).",
+      "Doğada insan yapımı bir şey bulun ve çöpse alın (ekstra puan için!)."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "title": "Gelişmiş Doğa Keşif Avı",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Canlıları, su kaynaklarını ve büyümenin ince belirtilerini bulun.",
+    "steps": [
+      "Yerel bir canlıyı (böcek, kuş veya küçük hayvan) tespit edin.",
+      "Büyüme belirtisi bulun (tohum kabuğu, mantar veya yeşil filiz).",
+      "Uçan bir nesne veya canlı gözlemleyin (uçak, arı veya kelebek).",
+      "Doğal veya yapay bir su kaynağı bulun."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 32,
+    "title": "Açık Hava Peri Bahçesi",
+    "category": "creative",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "Dış mekanda doğal malzemeler kullanarak kendi minyatür peri bahçenizi oluşturun.",
+    "steps": [
+      "Peri bahçeniz için korunaklı bir dış mekan seçin.",
+      "Küçük bitkiler, kır çiçekleri veya yosun parçaları toplayın.",
+      "Yakınlarda küçük çubuklar, dallar ve çakıl taşları toplayın.",
+      "Topladığınız çubukları kullanarak minik bir ev yapısı inşa edin.",
+      "Çakıl taşlarını kullanarak minyatür taş yollar döşeyin."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 33,
+    "title": "Park Yürüyüşü",
+    "category": "active",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Telefonunuzu bir kenara bırakarak yakındaki bir parkta yürüyüş yapın.",
+    "steps": [
+      "Yakındaki bir açık hava parkına gidin.",
+      "Telefonunuzu sessiz moda alarak cebinize veya çantanıza koyun.",
+      "Parkın etrafında tam bir tur atın.",
+      "Yürürken etrafınızdaki manzaralara ve seslere odaklanın."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 34,
+    "title": "Dışarıda yemek yiyin",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Açık havada yemek yemenin veya atıştırmalıkların tadını çıkarın.",
+    "steps": [
+      "En sevdiğiniz yiyecek veya içecekle bir tabak hazırlayın.",
+      "Verandanıza, terasınıza veya piknik masanıza çıkın.",
+      "Temiz havanın tadını çıkarırken yemeğinizin keyfini dikkatlice çıkarın."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 35,
+    "title": "Güneşlenmek",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Doğal güneş ışığından güvenle faydalanarak rahatlayın ve enerji depolayın.",
+    "steps": [
+      "Güneş kremi sürün ve güneş gözlüğü takın.",
+      "Güneşli bir yere bir havlu veya şezlong serin.",
+      "15-20 dakika boyunca rahatlayın ve güneşin sıcaklığını hissedin."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 36,
+    "title": "Meditasyon",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Sessiz bir açık hava ortamında bilinçli nefes egzersizleri yapın.",
+    "steps": [
+      "Çimenlerin veya bir bankın üzerinde rahat bir oturma pozisyonu bulun.",
+      "Gözlerinizi kapatın ve nefesinize odaklanın.",
+      "Düşüncelerinizi toplarken dışarıdaki ortam seslerini dinleyin."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 37,
+    "title": "Bulut izleme",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Arkanıza yaslanın ve bulutların gökyüzünde süzülmesini izleyin.",
+    "steps": [
+      "Çimenin üzerine bir battaniye serin.",
+      "Yere uzanın ve gökyüzüne bakın.",
+      "Bulutların değişen şekillerini, gölgelerini ve dokularını gözlemleyin."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 38,
+    "title": "Botanik",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "Yerel bir botanik bahçesini veya bitki koleksiyonunu keşfedin.",
+    "steps": [
+      "Yakındaki çeşitli bitki örtüsüne sahip bir botanik bahçesini veya parkı ziyaret edin.",
+      "Farklı çiçekleri, ağaçları ve yerel bitkileri inceleyin.",
+      "En sevdiğiniz botanik çeşitlerini not edin."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 39,
+    "title": "Balıkları izlemek",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Yerel bir gölette, derede veya gölde su yaşamını gözlemleyin.",
+    "steps": [
+      "Yakındaki bir gölete, dereye veya halka açık bir su alanına gidin.",
+      "Suyun kenarında sessiz bir görüş noktası bulun.",
+      "Yüzeyin altında yüzen ve beslenen balıkları izleyin."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 40,
+    "title": "Kuş yemlikleri",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Kuş yemliklerini kurun veya doldurun ve gelen kuşları izleyin.",
+    "steps": [
+      "Dış mekan kuş yemliğinizi kontrol edin ve taze tohumla doldurun.",
+      "Kuşların sağlıklı kalması için yemleme alanını temizleyin.",
+      "Yerel kuşların yemlenmeye gelmesini uzaktan izleyin."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 41,
+    "title": "Doğa Yürüyüşleri",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Doğal ortamda sakin ve rahatlatıcı bir yürüyüş yapın.",
+    "steps": [
+      "Manzaralı bir doğa yolu veya ormanlık patika seçin.",
+      "Rahat ve kolay bir tempoda yürüyün.",
+      "Yol boyunca ağaçları, bitkileri ve yaban hayatını gözlemleyin."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 42,
+    "title": "Vahşi yaşamı izlemek",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Yerel yaban hayatını doğal ortamlarında sessizce gözlemleyin.",
+    "steps": [
+      "Bir parkta veya doğa koruma alanında sakin bir gözlem noktası bulun.",
+      "Yaşam alanını rahatsız etmeden sessizce oturun veya ayakta durun.",
+      "Sincapları, tavşanları, geyikleri veya diğer orman hayvanlarını gözlemleyin."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 43,
+    "title": "Çiçek toplama",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Yabani çiçeklerden veya bahçe çiçeklerinden küçük bir buket toplayın.",
+    "steps": [
+      "Çiçek toplamanın serbest olduğu bir yer bulun.",
+      "Birkaç canlı, açmış çiçek seçin.",
+      "Saplarını dikkatlice kesin ve küçük bir buket haline getirin."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 44,
+    "title": "Bulmaca",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Hafif esintili havada açık havada bir yapboz, bulmaca veya mantık oyunu çözün.",
+    "steps": [
+      "Bir bulmaca kitabı, bulmaca tahtası veya bulmaca kutusunu açık hava masasına getirin.",
+      "Bol doğal ışık alan gölgeli bir yere kurun.",
+      "Açık havada parçaları veya ipuçlarını çözmeye odaklanmanın keyfini çıkarın."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 45,
+    "title": "Tarihi Yerler",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "Açık hava tarihi bir anıtı veya simge yapıyı ziyaret edin ve gezin.",
+    "steps": [
+      "Bölgenizdeki tarihi bir açık hava mekanını veya alanını araştırın.",
+      "Mekana gidin ve arazide yürüyüş yapın.",
+      "Mekanın tarihi hakkında bilgi edinmek için bilgi levhalarını okuyun."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 46,
+    "title": "Bahçe Oyunları",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Açık havada çim oyunları oynayın; örneğin cornhole, bocce veya frisbee.",
+    "steps": [
+      "Bahçede cornhole, kroket veya bocce gibi çim oyunları kurun.",
+      "Arkadaşlarınızı veya aile üyelerinizi toplayın.",
+      "Açık havada dostça bir maç veya oyun turu oynayın."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 47,
+    "title": "Hazine Avı",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "Eğlenceli bir açık hava hazine avı düzenleyin veya buna katılın.",
+    "steps": [
+      "Bahçede veya parkta gizlenmiş ipuçlarından oluşan bir set oluşturun veya bu ipuçlarını takip edin.",
+      "Takımlar oluşturun veya bireysel olarak avlanın.",
+      "Son ödülü ortaya çıkarmak için her ipucunu takip edin."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
   }
 ]
