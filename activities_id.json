@@ -34,7 +34,7 @@
     "steps": [
       "Keluarlah sebelum matahari benar-benar terbenam.",
       "Temukan tempat yang nyaman untuk menyaksikan matahari terbenam.",
-      "Lihatlah semua warna yang berbeda saat matahari terbenam."
+      "Lihatlah semua warna yang berbeda yang ada saat matahari terbenam."
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -72,7 +72,7 @@
     "durationMinutes": 15,
     "description": "Temukan 5 jenis serangga atau lebih di luar ruangan.",
     "steps": [
-      "Keluar dan cari serangga",
+      "Keluarlah dan cari serangga",
       "Temukan 5 jenis serangga atau lebih"
     ],
     "isPremium": true,
@@ -120,7 +120,7 @@
   },
   {
     "id": 7,
-    "title": "Mendaki Pengamatan Burung",
+    "title": "Mendaki Sambil Mengamati Burung",
     "category": "active",
     "audiences": [
       "solo",
@@ -449,7 +449,7 @@
     "durationMinutes": 15,
     "description": "Luangkan waktu untuk berjalan-jalan santai di lingkungan sekitar Anda untuk menjernihkan pikiran.",
     "steps": [
-      "Kenakan sepatu jalan yang nyaman.",
+      "Kenakan sepatu berjalan yang nyaman.",
       "Keluar dan pilih rute yang belum pernah Anda lalui baru-baru ini.",
       "Berjalanlah dengan kecepatan tetap dan simpan ponsel Anda di saku."
     ],
@@ -469,7 +469,7 @@
     "description": "Bersihkan dan semprot teras Anda dengan cepat.",
     "steps": [
       "Segera singkirkan semua barang di teras.",
-      "Pisahkan barang-barang yang tidak boleh terkena air.",
+      "Pisahkan barang-barang yang tidak boleh basah.",
       "Semprotkan air ke teras dan bersihkan dari kotoran."
     ],
     "isPremium": "",
@@ -484,7 +484,7 @@
     ],
     "locationType": "backyard",
     "isIndoor": false,
-    "durationMinutes": 7,
+    "durationMinutes": 5,
     "description": "Keluarlah dan peluk pohon di dekatmu.",
     "steps": [
       "Temukan sebuah pohon.",
@@ -530,5 +530,414 @@
     ],
     "isPremium": true,
     "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 28,
+    "title": "Jalan Setapak Hening di Lingkungan Sekitar",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "neighborhood",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Renungkan sambil berjalan-jalan di sekitar lingkungan Anda.",
+    "steps": [
+      "Tentukan rute Anda.",
+      "Kenakan sepatu berjalan yang nyaman.",
+      "Simpan ponsel Anda di saku atau dalam mode senyap.",
+      "Perhatikan lingkungan sekitar Anda dan nikmati momen refleksi tanpa gangguan saat Anda berjalan."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 29,
+    "title": "Menulis Jurnal di Halaman Belakang",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Luangkan waktu sejenak di luar ruangan untuk menjernihkan pikiran dan mencatat pemikiran Anda.",
+    "steps": [
+      "Ambil buku catatan dan pena favoritmu.",
+      "Pergilah ke luar ke tempat yang tenang dan nyaman.",
+      "Luangkan 15 menit untuk menulis dengan bebas—catat pikiranmu, bagaimana harimu berjalan, atau apa yang kamu perhatikan di sekitarmu."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 30,
+    "title": "Perburuan Harta Karun Alam",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Carilah daftar benda dan elemen alam sehari-hari di sekitar Anda.",
+    "steps": [
+      "Temukan permukaan yang kasar (kulit pohon, batu bata tua, atau batu lapuk).",
+      "Temukan benda berwarna kuning cerah (bunga, daun, atau papan tanda).",
+      "Temukan sesuatu yang lembut (bulu, lumut, atau sepetak rumput).",
+      "Temukan sesuatu yang buatan manusia di alam dan ambil jika itu sampah (untuk poin bonus!)."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "title": "Perburuan Harta Karun Alam Tingkat Lanjut",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Temukan makhluk hidup, fitur air, dan tanda-tanda pertumbuhan yang halus.",
+    "steps": [
+      "Temukan penghuni lokal (serangga, burung, atau hewan kecil).",
+      "Temukan tanda pertumbuhan (polong biji, jamur, atau tunas hijau).",
+      "Amati benda atau makhluk terbang (pesawat terbang, lebah, atau kupu-kupu).",
+      "Temukan fitur air alami atau buatan."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 32,
+    "title": "Taman Peri Luar Ruangan",
+    "category": "creative",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "Buatlah taman peri mini Anda sendiri menggunakan bahan-bahan alami di luar ruangan.",
+    "steps": [
+      "Pilih lokasi luar ruangan yang terlindung untuk taman peri Anda.",
+      "Kumpulkan tanaman kecil, bunga liar, atau lumut.",
+      "Kumpulkan ranting kecil, dahan, dan kerikil di dekatnya.",
+      "Bangun struktur rumah kecil menggunakan ranting yang telah Anda kumpulkan.",
+      "Susun jalur batu miniatur menggunakan kerikil Anda."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 33,
+    "title": "Jalan Setapak di Taman",
+    "category": "active",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Berjalan-jalanlah di taman terdekat sambil tetap menyimpan ponsel Anda.",
+    "steps": [
+      "Pergilah ke taman terbuka terdekat.",
+      "Masukkan ponsel Anda ke dalam saku atau tas dan aktifkan mode senyap.",
+      "Berjalanlah mengelilingi taman sepenuhnya.",
+      "Pusatkan perhatian Anda pada pemandangan dan suara di sekitar Anda saat berjalan."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 34,
+    "title": "Makan di luar",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Nikmati makan atau camilan di udara terbuka.",
+    "steps": [
+      "Siapkan piring berisi makanan atau minuman favorit Anda.",
+      "Pergilah ke luar, ke teras, dek, atau meja piknik Anda.",
+      "Nikmati makanan Anda dengan penuh kesadaran sambil menikmati semilir angin segar."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 35,
+    "title": "Berjemur",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Nikmati sinar matahari alami dengan aman untuk bersantai dan memulihkan energi.",
+    "steps": [
+      "Oleskan tabir surya dan kenakan kacamata hitam.",
+      "Bentangkan handuk atau kursi santai di tempat yang terkena sinar matahari.",
+      "Bersantailah dan nikmati kehangatannya selama 15 hingga 20 menit."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 36,
+    "title": "Meditasi",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Lakukan latihan pernapasan penuh kesadaran di lingkungan luar ruangan yang tenang.",
+    "steps": [
+      "Carilah posisi duduk yang nyaman di atas rumput atau bangku.",
+      "Pejamkan mata Anda dan fokuskan perhatian pada napas Anda.",
+      "Dengarkan suara-suara di sekitar Anda sambil memusatkan pikiran."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 37,
+    "title": "Mengamati awan",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Berbaringlah dan saksikan awan melayang di langit.",
+    "steps": [
+      "Bentangkan selimut di atas rumput.",
+      "Berbaringlah dan pandanglah langit.",
+      "Perhatikan perubahan bentuk awan, bayangan, dan teksturnya."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 38,
+    "title": "Botani",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "Jelajahi taman botani atau koleksi flora lokal.",
+    "steps": [
+      "Kunjungi taman botani atau taman terdekat dengan keanekaragaman tumbuhan.",
+      "Amati berbagai bunga, pohon, dan tanaman asli.",
+      "Catat varietas botani favorit Anda."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 39,
+    "title": "Mengamati ikan",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Amati kehidupan perairan di kolam, sungai, atau danau setempat.",
+    "steps": [
+      "Pergilah ke kolam, sungai, atau sumber air umum terdekat.",
+      "Temukan tempat yang tenang di sepanjang tepi air.",
+      "Perhatikan ikan yang berenang dan mencari makan di bawah permukaan air."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 40,
+    "title": "tempat makan burung",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "Pasang atau isi ulang tempat pakan burung dan amati burung-burung yang berkunjung.",
+    "steps": [
+      "Periksa tempat pakan burung di luar ruangan Anda dan isi kembali dengan biji-bijian segar.",
+      "Bersihkan area tempat pakan agar burung tetap sehat.",
+      "Amati dari kejauhan saat burung-burung lokal datang untuk makan."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 41,
+    "title": "Jalan-jalan di Alam",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Nikmati jalan-jalan santai di tengah lingkungan alam.",
+    "steps": [
+      "Pilihlah jalur alam yang indah atau jalan setapak di hutan.",
+      "Berjalanlah dengan santai dan tenang.",
+      "Amati pepohonan, tanaman, dan satwa liar di sepanjang jalan setapak."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 42,
+    "title": "Mengamati Satwa Liar",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Amati satwa liar setempat dengan tenang di habitat alami mereka.",
+    "steps": [
+      "Temukan tempat pengamatan yang tenang di taman atau cagar alam.",
+      "Duduk atau berdiri dengan tenang tanpa mengganggu habitat.",
+      "Amati keberadaan tupai, kelinci, rusa, atau hewan hutan lainnya."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 43,
+    "title": "Memetik bunga",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "Kumpulkan buket kecil bunga liar atau bunga taman.",
+    "steps": [
+      "Temukan lokasi di mana memetik bunga diperbolehkan.",
+      "Pilih beberapa bunga yang cerah dan mekar.",
+      "Potong batangnya dengan hati-hati dan susun menjadi buket kecil."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 44,
+    "title": "Membingungkan",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Selesaikan teka-teki gambar, teka-teki silang, atau teka-teki logika di luar ruangan sambil menikmati semilir angin.",
+    "steps": [
+      "Bawalah buku teka-teki, papan teka-teki, atau kotak teka-teki ke meja luar ruangan.",
+      "Siapkan di tempat yang teduh dengan banyak cahaya alami.",
+      "Nikmati fokus pada penyelesaian potongan atau petunjuk di luar ruangan."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 45,
+    "title": "Situs Bersejarah",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "Kunjungi dan jelajahi monumen atau landmark bersejarah di luar ruangan.",
+    "steps": [
+      "Telusuri situs atau landmark bersejarah di luar ruangan di daerah Anda.",
+      "Kunjungi lokasi tersebut dan jelajahi areanya.",
+      "Baca plakat informasi untuk mempelajari sejarah situs tersebut."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 46,
+    "title": "Permainan di Halaman Belakang",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "Mainkan permainan halaman rumput di luar ruangan seperti cornhole, bocce, atau frisbee.",
+    "steps": [
+      "Siapkan permainan halaman seperti cornhole, croquet, atau bocce ball di halaman.",
+      "Kumpulkan teman atau anggota keluarga.",
+      "Mainkan pertandingan persahabatan atau beberapa putaran permainan di luar ruangan."
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 47,
+    "title": "Perburuan Harta Karun",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "Selenggarakan atau ikuti perburuan harta karun di luar ruangan yang menyenangkan.",
+    "steps": [
+      "Buat atau ikuti serangkaian petunjuk yang tersembunyi di sekitar halaman atau taman.",
+      "Bentuk tim atau berburu secara individu.",
+      "Ikuti setiap petunjuk untuk menemukan hadiah utama."
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
   }
 ]
