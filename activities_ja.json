@@ -14,7 +14,7 @@
     "steps": [
       "日の出前に早く外に出ましょう。",
       "太陽が見える快適な場所を見つけましょう。",
-      "太陽を直接見ないように注意しながら、日の出を眺めましょう。"
+      "太陽を直接見ないようにしながら、日の出を眺めましょう。"
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -208,7 +208,7 @@
     "locationType": "backyard",
     "isIndoor": false,
     "durationMinutes": 30,
-    "description": "庭で30分間、何か体を動かす作業に取り組んでみましょう。",
+    "description": "30分間、庭で何か体を動かす作業に取り組んでみましょう。",
     "steps": [
       "庭を歩き回り、具体的な作業を選びましょう。",
       "雑草を抜いたり、植物に水をやったり、落ち葉を集めたり。",
@@ -231,9 +231,9 @@
     "durationMinutes": 60,
     "description": "近くのトレイルをハイキングする",
     "steps": [
-      "近くのハイキングコースや自然保護区を探しに行きましょう。",
+      "近くの遊歩道や自然保護区を探して出かけましょう。",
       "水と丈夫な靴を持参してください。",
-      "コースを歩きながら、周囲の景色を楽しみましょう。"
+      "さあ、トレイルを歩きながら、周囲の景色を楽しみましょう。"
     ],
     "isPremium": true,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -312,8 +312,8 @@
     "description": "近くの公園に行って、手軽に自重トレーニングをしてみましょう。",
     "steps": [
       "芝生のある広い場所か公園のベンチを見つけましょう。",
-      "腕立て伏せ、スクワット、ランジを組み合わせたサーキットトレーニングを行います。",
-      "クールダウンとストレッチをしましょう。"
+      "腕立て伏せ、スクワット、ランジを順番に繰り返します。",
+      "クールダウンしてストレッチをしましょう。"
     ],
     "isPremium": false,
     "Date Added": "2026-09-03T05:00:00.000Z"
@@ -340,7 +340,7 @@
   },
   {
     "id": 18,
-    "title": "オフライン読書",
+    "title": "オフラインでの読書",
     "category": "chill",
     "audiences": [
       "solo"
@@ -484,7 +484,7 @@
     ],
     "locationType": "backyard",
     "isIndoor": false,
-    "durationMinutes": 7,
+    "durationMinutes": 5,
     "description": "外に出て近くの木を抱きしめよう",
     "steps": [
       "木を見つけてください。",
@@ -530,5 +530,414 @@
     ],
     "isPremium": true,
     "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 28,
+    "title": "近隣住民による静かな散歩",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "neighborhood",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "近所を散歩しながら、じっくり考えてみてください。",
+    "steps": [
+      "ルートを決めましょう。",
+      "歩きやすい靴を履きましょう。",
+      "携帯電話はポケットに入れるか、サイレントモードにしておきましょう。",
+      "周囲の景色に目を向け、歩きながら静かに物思いにふけるひとときを楽しみましょう。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 29,
+    "title": "裏庭日記",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "少しの間、屋外に出て気分転換をし、考えを書き留めてみましょう。",
+    "steps": [
+      "ノートとお気に入りのペンを用意しましょう。",
+      "静かで心地よい場所へ出かけましょう。",
+      "15分間、自由に書き綴ってみましょう。思いついたこと、その日の出来事、周りで気づいたことなどを書き留めてください。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 30,
+    "title": "自然探検ゲーム",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "身の回りにある日常的な自然物や自然要素のリストを探してみましょう。",
+    "steps": [
+      "ざらざらした表面（木の皮、古いレンガ、風化した石など）を見つけましょう。",
+      "鮮やかな黄色のもの（花、葉、看板など）を見つけましょう。",
+      "柔らかいもの（羽、苔、草むらなど）を見つけましょう。",
+      "自然の中にある人工物を見つけ、それがゴミであれば拾いましょう（ボーナスポイント！）。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "title": "上級者向け自然探検ゲーム",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "生き物、水辺の地形、そしてかすかな成長の兆候を探してみましょう。",
+    "steps": [
+      "地元の生き物（昆虫、鳥、小動物など）を探してみましょう。",
+      "成長の兆候（種子、キノコ、新芽など）を探してみましょう。",
+      "飛んでいる物体や生き物（飛行機、ミツバチ、チョウなど）を観察してみましょう。",
+      "自然または人工の水場を探してみましょう。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 32,
+    "title": "屋外の妖精の庭",
+    "category": "creative",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "屋外で自然素材を使って、自分だけのミニチュア妖精の庭を作ってみましょう。",
+    "steps": [
+      "妖精の庭を作るには、日当たりの良い屋外の場所を選びましょう。",
+      "小さな植物、野草、苔の生えた場所などを集めます。",
+      "近くの小枝や小石を集めます。",
+      "集めた小枝を使って小さな家を作ります。",
+      "小石を使ってミニチュアの石畳の小道を敷き詰めます。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 33,
+    "title": "パークウォーク",
+    "category": "active",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "携帯電話はしまって、近くの公園を散歩してみましょう。",
+    "steps": [
+      "近くの公園に行きましょう。",
+      "携帯電話をポケットかバッグに入れ、サイレントモードに設定してください。",
+      "公園を一周歩いてみましょう。",
+      "歩きながら、周囲の景色や音に意識を集中させてください。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 34,
+    "title": "外で食事をする",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "屋外で食事や軽食をお楽しみください。",
+    "steps": [
+      "お好みの食べ物や飲み物を盛り付けたお皿を用意しましょう。",
+      "パティオ、デッキ、またはピクニックテーブルなど、屋外に出てください。",
+      "爽やかな風を感じながら、ゆっくりと食事を味わいましょう。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 35,
+    "title": "日光浴",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "安全に自然光を浴びて、リラックスしてエネルギーをチャージしましょう。",
+    "steps": [
+      "日焼け止めを塗り、サングラスをかけましょう。",
+      "タオルかリクライニングチェアを敷いて、日当たりの良い場所に座りましょう。",
+      "15分から20分ほど、リラックスして暖かさを感じてください。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 36,
+    "title": "瞑想",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "静かな屋外で、意識的な呼吸法を実践してみましょう。",
+    "steps": [
+      "芝生の上やベンチに、楽な姿勢で座りましょう。",
+      "目を閉じて、呼吸に意識を集中してください。",
+      "周囲の自然の音に耳を傾けながら、心を落ち着かせましょう。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 37,
+    "title": "雲を眺める",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "寝転んで、空を流れる雲を眺めよう。",
+    "steps": [
+      "芝生の上に毛布を広げてください。",
+      "寝転んで空を見上げてみましょう。",
+      "雲の形、影、質感の変化に注目してください。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 38,
+    "title": "植物",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "地元の植物園や植物コレクションを訪れてみましょう。",
+    "steps": [
+      "近くの植物園や公園を訪れて、多様な植物を観察してみましょう。",
+      "様々な花、木、そして自生植物をじっくりと観察してください。",
+      "お気に入りの植物の種類をメモしておきましょう。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 39,
+    "title": "魚を観察する",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "地元の池、小川、湖などで水生生物を観察してみましょう。",
+    "steps": [
+      "近くの池、小川、または公共の水辺へ向かいましょう。",
+      "水辺の静かな場所を見つけてください。",
+      "水面下で泳いだり餌を食べたりする魚を観察しましょう。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 40,
+    "title": "鳥の餌箱",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "鳥の餌台を設置したり、餌を補充したりして、訪れる鳥たちを観察しましょう。",
+    "steps": [
+      "屋外の野鳥の餌台を確認し、新しい種を補充してください。",
+      "鳥たちの健康を守るため、餌場を清潔に保ちましょう。",
+      "近所の鳥たちが餌を食べに来る様子を、少し離れたところから観察してください。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 41,
+    "title": "自然散策",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "自然に囲まれた環境の中を、ゆったりと穏やかに散策してみましょう。",
+    "steps": [
+      "景色の良い自然遊歩道や森林の小道を選びましょう。",
+      "ゆったりとしたペースで歩きましょう。",
+      "道沿いの木々、植物、野生動物を観察しましょう。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 42,
+    "title": "野生動物の観察",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "地元の野生動物を自然の生息地で静かに観察する。",
+    "steps": [
+      "公園や自然保護区で、静かな観察場所を見つけましょう。",
+      "動物たちの生息環境を乱さないように、静かに座ったり立ったりしてください。",
+      "リス、ウサギ、シカ、その他の森の生き物を探してみましょう。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 43,
+    "title": "花摘み",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "野の花や庭の花を小さな花束に摘みましょう。",
+    "steps": [
+      "花摘みが許可されている場所を探しましょう。",
+      "鮮やかで咲いている花をいくつか選びましょう。",
+      "茎を丁寧に切り、小さな花束にまとめましょう。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 44,
+    "title": "パズル",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "そよ風を感じながら、屋外でジグソーパズル、クロスワードパズル、または論理パズルを解いてみよう。",
+    "steps": [
+      "パズルブック、パズルボード、またはパズルボックスを屋外のテーブルに持ち出しましょう。",
+      "日陰で自然光がたっぷり当たる場所を選びましょう。",
+      "屋外でパズルのピースや手がかりを解くことに集中して楽しみましょう。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 45,
+    "title": "史跡",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "屋外の歴史的建造物や史跡を訪れて見学する。",
+    "steps": [
+      "お住まいの地域にある屋外の歴史的建造物や史跡を調べてみましょう。",
+      "実際に現地を訪れ、敷地内を散策してみましょう。",
+      "案内板を読んで、その場所の歴史について学びましょう。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 46,
+    "title": "裏庭ゲーム",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "コーンホール、ボッチャ、フリスビーなどの屋外芝生ゲームを楽しもう。",
+    "steps": [
+      "庭にコーンホール、クロッケー、ボッチャなどの芝生ゲームを設置しましょう。",
+      "友人や家族を集めましょう。",
+      "屋外で親善試合やゲームを楽しみましょう。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 47,
+    "title": "宝探し",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "楽しい屋外宝探しを企画したり、参加したりしよう。",
+    "steps": [
+      "庭や公園に隠された手がかりを作ったり、それに従って進んだりしましょう。",
+      "チームを組むことも、個人で探索することもできます。",
+      "それぞれの手がかりをたどって、最終賞品を見つけ出しましょう。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
   }
 ]
