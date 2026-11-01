@@ -484,7 +484,7 @@
     ],
     "locationType": "backyard",
     "isIndoor": false,
-    "durationMinutes": 7,
+    "durationMinutes": 5,
     "description": "走到户外，拥抱附近的一棵树。",
     "steps": [
       "找一棵树。",
@@ -530,5 +530,414 @@
     ],
     "isPremium": true,
     "Date Added": "2026-09-27T05:00:00.000Z"
+  },
+  {
+    "id": 28,
+    "title": "邻里静默漫步",
+    "category": "nature",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "neighborhood",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "在附近散步时，不妨思考一下。",
+    "steps": [
+      "选好路线。",
+      "穿上舒适的步行鞋。",
+      "把手机放在口袋里或调成静音。",
+      "边走边留意周围环境，享受片刻不受打扰的沉思。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 29,
+    "title": "后院日记",
+    "category": "productive",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "短暂外出走走，清空思绪，记录下你的想法。",
+    "steps": [
+      "带上笔记本和你最喜欢的笔。",
+      "走到户外，找个安静舒适的地方。",
+      "花15分钟自由写作——记录你的想法、你的一天过得如何，或者你注意到周围的事物。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-05T05:00:00.000Z"
+  },
+  {
+    "id": 30,
+    "title": "自然寻宝游戏",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "找出你周围常见的自然物品和元素。",
+    "steps": [
+      "找到粗糙的表面（树皮、旧砖或风化的石头）。",
+      "找到亮黄色的物品（花朵、树叶或标志）。",
+      "找到柔软的东西（羽毛、苔藓或一片草地）。",
+      "在自然环境中找到人造物品，如果是垃圾就捡起来（可获得额外加分！）。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "title": "高级自然寻宝游戏",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "寻找生物、水景和细微的生长迹象。",
+    "steps": [
+      "观察当地居民（昆虫、鸟类或小型动物）。",
+      "寻找生长迹象（种子荚、蘑菇或嫩芽）。",
+      "观察飞行物体或生物（飞机、蜜蜂或蝴蝶）。",
+      "找到天然或人工水体。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 32,
+    "title": "户外仙女花园",
+    "category": "creative",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "用天然材料在户外搭建你自己的迷你仙境花园。",
+    "steps": [
+      "为你的仙境花园选择一个避风的户外地点。",
+      "收集一些小型植物、野花或苔藓。",
+      "在附近收集一些小树枝、细枝和鹅卵石。",
+      "用收集到的树枝搭建一个迷你小屋。",
+      "用鹅卵石铺设迷你石板路。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 33,
+    "title": "公园步道",
+    "category": "active",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "把手机收起来，到附近的公园里散散步。",
+    "steps": [
+      "去附近的户外公园。",
+      "把手机放在口袋或包里，调成静音模式。",
+      "绕公园走一圈。",
+      "走路时，把注意力集中在周围的景色和声音上。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-10-13T05:00:00.000Z"
+  },
+  {
+    "id": 34,
+    "title": "在外面用餐",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "在户外享用美食或小吃。",
+    "steps": [
+      "准备一盘你最喜欢的食物或饮品。",
+      "到户外露台、阳台或野餐桌旁坐下。",
+      "一边享受清新的微风，一边细细品味你的美食。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 35,
+    "title": "日光浴",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "安全地享受自然阳光，放松身心，恢复活力。",
+    "steps": [
+      "涂抹防晒霜，戴上太阳镜。",
+      "在阳光充足的地方铺上毛巾或躺椅。",
+      "放松身心，享受阳光的温暖 15 到 20 分钟。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 36,
+    "title": "冥想",
+    "category": "chill",
+    "audiences": [
+      "solo"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "在安静的户外环境中练习正念呼吸。",
+    "steps": [
+      "在草地上或长椅上找个舒服的坐姿。",
+      "闭上眼睛，专注于你的呼吸。",
+      "聆听户外的环境音，让自己的思绪平静下来。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 37,
+    "title": "观察云",
+    "category": "chill",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "躺下来，欣赏云朵在天空中飘荡。",
+    "steps": [
+      "在草地上铺开毯子。",
+      "躺下，仰望天空。",
+      "注意云朵形状、阴影和纹理的变化。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 38,
+    "title": "植物",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "参观当地植物园或植物收藏馆。",
+    "steps": [
+      "去附近的植物园或公园参观，那里植物种类繁多。",
+      "观察不同的花卉、树木和本地植物。",
+      "记下你最喜欢的植物品种。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 39,
+    "title": "观赏鱼",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "观察当地池塘、溪流或湖泊中的水生生物。",
+    "steps": [
+      "前往附近的池塘、溪流或公共水景。",
+      "在水边找一个安静的观景点。",
+      "观察水下游动和觅食的鱼儿。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 40,
+    "title": "喂鸟器",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 15,
+    "description": "设置或补充喂鸟器，观察前来觅食的鸟儿。",
+    "steps": [
+      "检查一下户外喂鸟器，并添加新鲜的鸟食。",
+      "清理喂鸟区域，保持鸟类健康。",
+      "远远地观察一下本地鸟类前来觅食的情况。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 41,
+    "title": "自然漫步",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "在自然环境中悠闲漫步。",
+    "steps": [
+      "选择一条风景优美的自然小径或林间步道。",
+      "以轻松的步伐漫步。",
+      "沿途观察树木、植物和野生动物。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 42,
+    "title": "观赏野生动物",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "静静地观察当地野生动物在其自然栖息地中的生活。",
+    "steps": [
+      "在公园或自然保护区找一个安静的观察点。",
+      "静静地坐着或站着，不要打扰它们的栖息地。",
+      "留意松鼠、兔子、鹿或其他林地动物。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 43,
+    "title": "采花",
+    "category": "nature",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "nature",
+    "isIndoor": false,
+    "durationMinutes": 20,
+    "description": "采摘一小束野花或花园里的鲜花。",
+    "steps": [
+      "找到允许采摘鲜花的地方。",
+      "挑选几朵鲜艳盛开的花朵。",
+      "小心修剪花茎，并将它们插成一束小花束。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 44,
+    "title": "谜",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "在微风拂面的户外，解拼图、填字游戏或逻辑谜题。",
+    "steps": [
+      "带上一本拼图书、拼图板或拼图盒，到户外桌子上。",
+      "找一个阴凉且自然光线充足的地方。",
+      "享受在户外专注解谜的乐趣。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 45,
+    "title": "古迹",
+    "category": "curious",
+    "audiences": [
+      "solo",
+      "date",
+      "group"
+    ],
+    "locationType": "urban",
+    "isIndoor": false,
+    "durationMinutes": 60,
+    "description": "参观和游览户外历史古迹或地标。",
+    "steps": [
+      "研究一下你所在地区的户外历史地标或遗址。",
+      "前往该地点，漫步其中。",
+      "阅读信息牌，了解该遗址的历史。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 46,
+    "title": "后院游戏",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 30,
+    "description": "玩户外草坪游戏，例如投掷沙包、地掷球或飞盘。",
+    "steps": [
+      "在院子里摆放一些草坪游戏，比如投掷沙包、槌球或地掷球。",
+      "邀请朋友或家人一起玩。",
+      "在户外进行一场友谊赛或几轮游戏。"
+    ],
+    "isPremium": false,
+    "Date Added": "2026-11-01T05:00:00.000Z"
+  },
+  {
+    "id": 47,
+    "title": "寻宝游戏",
+    "category": "active",
+    "audiences": [
+      "group"
+    ],
+    "locationType": "backyard",
+    "isIndoor": false,
+    "durationMinutes": 45,
+    "description": "组织或参与有趣的户外寻宝活动。",
+    "steps": [
+      "创建或追踪隐藏在院子或公园各处的线索。",
+      "组队或单独寻找。",
+      "循着每条线索，最终找到奖品。"
+    ],
+    "isPremium": true,
+    "Date Added": "2026-11-01T05:00:00.000Z"
   }
 ]
